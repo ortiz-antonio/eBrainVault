@@ -1,0 +1,2 @@
+# Ebay Research (Terapeak)
+	[research](https://www.ebay.com/sh/research?marketplace=EBAY-US&keywords=thinkpad+x1+carbon&dayRange=30&endDate=1754186880336&startDate=1751594880336&categoryId=0&conditionId=3000&format=BEST_OFFER&topRatedProducts=SHOW&offset=0&limit=50&tabName=SOLD&tz=America%2FChicago)

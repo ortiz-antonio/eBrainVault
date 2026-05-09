@@ -1,0 +1,6 @@
+#Obsidian sync git
+.obsidian/graph.json
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.env
+Untitled*.md

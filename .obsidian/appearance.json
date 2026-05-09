@@ -1,0 +1,14 @@
+{
+  "cssTheme": "Catppuccin",
+  "interfaceFontFamily": "Inter",
+  "textFontFamily": "Atkinson Hyperlegible",
+  "monospaceFontFamily": "JetBrains Mono",
+  "baseFontSize": 22,
+  "theme": "system",
+  "baseFontSizeAction": true,
+  "enabledCssSnippets": [
+    "bg-dark",
+    "mermaid-fullscreen"
+  ],
+  "nativeMenus": false
+}

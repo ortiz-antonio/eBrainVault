@@ -1,0 +1,3 @@
+# Baterias
+Son bastante economicas, no vale la pena el reisgo de comprar una usada con mala  bateria, mejor comprar una sin bateria y se la pongo:
+[t14 gen 2 batt](https://www.ebay.com/itm/335419939433?_skw=t14+gen+2+battery&itmmeta=01K21R3F4ZSW0H8ZR4P8WGS99M&hash=item4e18961a69:g:uK4AAeSwzoRoZIAW&itmprp=enc%3AAQAKAAAA8FkggFvd1GGDu0w3yXCmi1feousoKk95tL3acfeXLKdWF%2FIRUm7M%2BwEQ7VWpTNDQ8Q4mDPrgYuCaO7mo7KPJUvL9af5PxCFt8irAVhRSWPBTLEr87OxmIexr3--bOjAR6QDbbtRFNfp3S8mu6ZtwMZ68%2FBHw%2BO3ndpmzveIDJTHVd8GZZah%2F%2BEAeuczFZZvtFmCpuYFgeF6%2BjGKs0aZZZWfi3FFy9nJQYOKdV%2BxlCHGfZ4msjHi1eSUKlN7e6y1TFXOOc5oBbTJNLHXzKJGtLAYJmfsYo9WN1jWFLqfliinAVu8%2BmwjGdcOM4S1HKnEemQ%3D%3D%7Ctkp%3ABFBM0PKNuJBm)

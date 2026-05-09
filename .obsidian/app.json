@@ -1,0 +1,12 @@
+{
+  "promptDelete": false,
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "current",
+  "newLinkFormat": "absolute",
+  "attachmentFolderPath": "./",
+  "newFileFolderPath": "",
+  "userIgnoreFilters": [
+    "Templates/"
+  ],
+  "readableLineLength": false
+}
