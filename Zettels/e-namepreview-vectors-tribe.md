@@ -10,8 +10,7 @@ microsass disfrazado de servicio manual, de esa manera puedo cobrar mas.
 [[Zettels/namepreview-vector-bussiness-model|namepreview-vector-bussiness-model]]
 
 ## Tribes
-Donde usen nombres personalizados como:
-
+Encontrar tribus donde usen nombres personalizados como:
 - Signs
 - Jewerly
 
