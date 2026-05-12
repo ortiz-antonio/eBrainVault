@@ -46,7 +46,7 @@ Para usar la IA de manera rapida uso gemini-cli y lo lanzo sobre kitty con [[Moc
 [[Mocs/practicas-diarias|practicas-diarias]]
 
 ## Mi objetivo
-[[Mocs/indepencia-moc|indepencia-moc]]
+[[Mocs/o-indepencia-moc|o-indepencia-moc]]
 ## Por que este eBrain me funciona
 - [[Mocs/aprendizaje-terapia-moc|aprendizaje-terapia-moc]]
 ## Mi busqueda de reconocimiento

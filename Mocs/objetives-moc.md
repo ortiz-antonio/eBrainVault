@@ -6,8 +6,10 @@ tags:
 ---
 
 # Objetives: 
+## Mios
+- [[Mocs/o-indepencia-moc|o-indepencia-moc]]
+## Comunidad
 - [[Zettels/o-crear-fuente-empleo-100-personas|o-crear-fuente-empleo-100-personas]]
-- [[Mocs/indepencia-moc|indepencia-moc]]
-- 
+- [[Zettels/o-sanar-chicas-manipuladas-y-ensenarles-a-sanar-otras|o-sanar-chicas-manipuladas-y-ensenarles-a-sanar-otras]]
 
 ---
