@@ -18,6 +18,7 @@ tags:
 [[Zettels/e-namepreview-vectors-tribe|e-namepreview-vectors-tribe]]
 [[Zettels/e-ganaderia-carniceria-propuesta-ganadera|e-ganaderia-carniceria-propuesta-ganadera]]
 ## Done
+[[Zettels/e-chicas-manipulada-musica|e-chicas-manipulada-musica]]
 [[Zettels/e-ganaderia-feedback-carniceria|e-ganaderia-feedback-carniceria]]
 
 
