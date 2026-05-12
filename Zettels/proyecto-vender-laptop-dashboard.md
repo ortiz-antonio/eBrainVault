@@ -30,6 +30,9 @@ Pienso usar un modelo de negocio, ver los clientes como si fueran de mi empresa,
 ### Resultado
 No tuve respuesta, aunque si he visto que compran laptops caras en pagos localmente, asi que pivoteare a encontrar mi tribu en internet.
 
+## Observaciones
+Las personas compran a a veces en estados unidos por que pagan con tarjeta de credito, yo no les ofrezco esa funcionalidad.
+
 ## Definir Tribu
 Como no tuve ventas locales, asi que buscare la tribu de personas intersadas en internet, tambien encontre monitores a muy buen precio.
 [[Zettels/venta-laptops-definir-tribu|venta-laptops-definir-tribu]]
