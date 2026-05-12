@@ -11,8 +11,6 @@ tags:
 - [[Zettels/customer-centric|customer-centric]]
 - [[Zettels/daily-delivery|daily-delivery]]
 - Incluir solo experimentos, no el proyecto completo
-# TODO (Legacy)
-[[Mocs/project-yotopo-moc|project-yotopo-moc]]
 # TODO
 [[Zettels/experiment-software-dev-tribe-frontend|experiment-software-dev-tribe-frontend]]
 [[Mocs/yotopo-tokens-moc|yotopo-tokens-moc]]
