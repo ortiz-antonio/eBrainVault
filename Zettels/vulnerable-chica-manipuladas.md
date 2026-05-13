@@ -17,6 +17,9 @@ La chica muestra musica de vulnerabilidad cuando ve a otra chica que estuvo en s
 
 2026-05-13: Canciones por hombres no compito, de dolor y mi cama suena y suena, mientras hubo un intento de distraerme por otra chica, y un hombre se acerco a la chica para socializar, ambos amigos del manipulador.
 
+## Cambio de comportamiento
+[[Zettels/e-chicas-manipulada-modificar-conducta|e-chicas-manipulada-modificar-conducta]]
+
 ---
 
 ### Hipotesis de [[#Cambio de musica]]
@@ -24,7 +27,7 @@ La chica muestra musica de vulnerabilidad cuando ve a otra chica que estuvo en s
 Mi experimento dos: debe ser sobre darte cuenta de repetir los mismos errores y que harias con lo que sabes ahora? si ya tienes una manera de canalizar el dolor, usala, pero de manera que no sea destructiva y con quien no te danie, insinuando que con su pareja.
 
 ## Connections:
-- [[]]
+- [[Literature/reprogramacion-claridad-estructural|reprogramacion-claridad-estructural]]
 
 ---
 
