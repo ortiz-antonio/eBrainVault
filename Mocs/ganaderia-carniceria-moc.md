@@ -29,18 +29,20 @@ Segun la conversacion estas son mis observaciones:
 	- Comprar el becerro completo
 	- Tener dos tipos de carne: local y la comercial
 
-
+## Observaciones
+### Distribuidor minorista
+Hay un distribuidor minorista que surte las tiendas de la region, su producto mas popular es la carne molida en paquetitos de 1/2 kg, lo venden congelado
 
 ## Modelado solucion
 Estoy asumiendo que se debe incluir a las carnicerias locales en la venta segun [[#Feedback ganadera]]
-
-La solucion segun el [[#Feedback carnicero]]
+### Carnicerias La solucion segun el [[#Feedback carnicero]]
 - Vender piezas segun ocupen: Paleta, costillares, etc... 
 - Trabajar en marca local, ejemplo carne fresca natural, ayudas a productores y la economia local
 - Facilitar carne a credito, a diferencia de Monterrey aparte  en lugar de almacenar la carne que sobre ofrecerlo a alguna carniceria a credito para ahorrar el costo de almacenamiento
-- Para los que quieran ahorrar trabajo, venderles la carne ya cortada para almacenar, ( Localizar carnicerias que quieran hacer maquila de corte, para generar empleos ) , dandoles la flexibilidad de venderles al cliente lo que ocupan.
-- Darles un sticker del branding, para quedar en el inconciente del cliente, compras carne local.
-
+- Venderles carne tipo [[#Tiendas minoristas]]
+- Darles un anuncio o lona del branding, hablando de la carne local, para quedar en el inconciente del cliente, compras carne local.
+### Tiendas minoristas
+Para los que quieran ahorrar trabajo, venderles la carne ya cortada para almacenar, ( Localizar carnicerias que quieran hacer maquila de corte, para generar empleos ) , dandoles la flexibilidad de venderles al cliente lo que ocupan, actuando como un [[#Distribuidor minorista]]
 
 ## Segunda etapa
 [[Zettels/ganaderia-carniceria-carne-seca|ganaderia-carniceria-carne-seca]]

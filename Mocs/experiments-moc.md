@@ -14,8 +14,10 @@ tags:
 # TODO
 [[Zettels/experiment-software-dev-tribe-frontend|experiment-software-dev-tribe-frontend]]
 [[Mocs/yotopo-tokens-moc|yotopo-tokens-moc]]
+
 # Doing
 [[Zettels/e-namepreview-vectors-tribe|e-namepreview-vectors-tribe]]
+[[Zettels/e-chicas-manipulada-modificar-conducta|e-chicas-manipulada-modificar-conducta]]
 [[Zettels/e-ganaderia-carniceria-propuesta-ganadera|e-ganaderia-carniceria-propuesta-ganadera]]
 ## Done
 [[Zettels/e-chicas-manipulada-musica|e-chicas-manipulada-musica]]
