@@ -22,6 +22,10 @@ La chica muestra musica de vulnerabilidad cuando ve a otra chica que estuvo en s
 ## Cambio de comportamiento
 [[Zettels/e-chicas-manipulada-modificar-conducta|e-chicas-manipulada-modificar-conducta]]
 
+### Recuerda
+Parte pendiente y ultima de mi disrupcion
+Recuerda quien eras antes y reconoce que ambas actitudes son parte de ti, pero bajo tu gobierno, para crear las condiciones y el anclaje con el mio [[Archive/Museum/el-ultimo-que-recuerda|el-ultimo-que-recuerda]] y cerrar con la frase: me ayudas a recordarles?
+
 ---
 
 ### Hipotesis de [[#Cambio de musica]]
