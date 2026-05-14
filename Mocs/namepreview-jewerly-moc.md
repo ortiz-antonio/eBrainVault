@@ -20,7 +20,7 @@ Joyerias que usen / fabriquen letras caladas
 ## Jobs to be done
 - [[Mocs/namepreview-jewerly-jtbd-artisan-moc|namepreview-jewerly-jtbd-artisan-moc]]
 - [[Mocs/namepreview-jewerly-jtbd-pc-fonts-moc|namepreview-jewerly-jtbd-pc-fonts-moc]]
-	- [[Zettels/namepreview-jewerly-jtbd-pc-fonts-cursive-moc|namepreview-jewerly-jtbd-pc-fonts-cursive-moc]]
+	- [[Mocs/namepreview-jewerly-jtbd-pc-fonts-cursive-moc|namepreview-jewerly-jtbd-pc-fonts-cursive-moc]]
 - [[Mocs/namepreview-jewerly-jtbd-outsourcer-moc|namepreview-jewerly-jtbd-outsourcer-moc]]
 
 ## Formatos
@@ -38,6 +38,9 @@ A mis clientes (O empezar a prospectar nuevos) solo ofrecerles las letras calada
 
 ## Filosofia
 "Los diseños exclusivos [[Mocs/namepreview-jewerly-jtbd-artisan-moc|namepreview-jewerly-jtbd-artisan-moc]] son míos y los produzco para [[Mocs/namepreview-jewerly-jtbd-outsourcer-moc|namepreview-jewerly-jtbd-outsourcer-moc]]. De manera muy limitada de clientes no competidores entre sí"
+
+## Investigacion en vectores
+[[Zettels/namepreview-vectors-tribe-feedback|namepreview-vectors-tribe-feedback]]
 
 
 ---

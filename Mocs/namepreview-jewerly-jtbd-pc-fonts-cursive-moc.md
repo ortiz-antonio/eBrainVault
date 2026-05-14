@@ -15,6 +15,12 @@ Eh visto que las usan para los dijes de cadenas.
 
 ---
 
+
+## Experiments 
+
+## Ver si consigo leads de etsy
+[[Zettels/e-namepreview-jewerly-jtbd-pc-fonts-etsy|e-namepreview-jewerly-jtbd-pc-fonts-etsy]]
+
 ## Joyeros que trabajan asi:
 - [glamira](https://www.glamira.com.mx/glamira-pendant-fidela.html?alloy=yellow-750&gad_source=1&gad_campaignid=21085573800&gclid=CjwKCAiA-__MBhAKEiwASBmsBN2TEVvGA9FlA5fTK0NvInYkdk7rMpZ1NzPjDioCd0gfWF1ys1YRVRoCivkQAvD_BwE)
 	-  quimby gubernatorial (mas similar)

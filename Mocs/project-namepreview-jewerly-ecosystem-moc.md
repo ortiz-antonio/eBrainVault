@@ -23,7 +23,7 @@ Seguiremos [[Mocs/microsass-moc|microsass-moc]]
 - Crear imagen del antes y despues
 - Crear brief para pasarselo a norma (me ayudara a prospectar) [[Zettels/namepreview-jewerly-jtbd-pc-fonts-copy|namepreview-jewerly-jtbd-pc-fonts-copy]]
 - Crear fuentes de namepreview: Investigar joyerias de Monterrey en linea, ver las que usan letras, de que estilo tienen
-	- Identificar fuentes de [[Zettels/namepreview-jewerly-jtbd-pc-fonts-cursive-moc|namepreview-jewerly-jtbd-pc-fonts-cursive-moc]]
+	- Identificar fuentes de [[Mocs/namepreview-jewerly-jtbd-pc-fonts-cursive-moc|namepreview-jewerly-jtbd-pc-fonts-cursive-moc]]
 - Refactor con JTBD
 - Desarrollar [[Zettels/namepreview-jewerly-jtbd-pc-fonts-moc-marketing|Estrategia y canales de marketing]]
 - Respuesta del Administrador sobre el post eliminado en Bolsa de Trabajo. (No aprobado, me tengo que adaptar al formato del grupo, si es de venta, poner ventas reales, no buscar opiniones)

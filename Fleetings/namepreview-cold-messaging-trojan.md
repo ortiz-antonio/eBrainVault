@@ -6,7 +6,9 @@ tags:
 ---
 
 # cold messaging trojan
-En productos personalizados, enviar a los proveedores haciendome pasar por cliente, oye me puedes hacer este estilo? y les mando mi web con la fuente personalizada, donde ellos bajen el vector.
+En productos personalizados, enviar a los proveedores haciendome pasar por cliente, oye me puedes hacer este estilo? y les mando mi web con la fuente personalizada(sin programar solo un nombre generico que no se pueda cambiar), donde ellos vean la tipografia que el cliente eligio.
+
+
 
 
 ---
@@ -17,4 +19,4 @@ En productos personalizados, enviar a los proveedores haciendome pasar por clien
 ---
 
 ## Questions for Further Exploration:
-- 
+- Como puedo validar a la vez si les interesa bajar el vector listo para trabajar? de momento se que tendrian que modificarlo por que no tiene las medidas.

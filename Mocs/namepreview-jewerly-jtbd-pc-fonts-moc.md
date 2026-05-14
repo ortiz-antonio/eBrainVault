@@ -17,7 +17,8 @@ Generacion de templates automaticos de las fuentes que ya usan
 
 ## Subcategorias
 ### Para soldar
-### Cursivas (dije) [[Zettels/namepreview-jewerly-jtbd-pc-fonts-cursive-moc|namepreview-jewerly-jtbd-pc-fonts-cursive-moc]]
+### Cursivas (dije) 
+[[Mocs/namepreview-jewerly-jtbd-pc-fonts-cursive-moc|namepreview-jewerly-jtbd-pc-fonts-cursive-moc]]
 
 ## Joyeros que trabajan asi
 [del valle](https://joyerosvalle.com/products/cadena-tejido-chino-con-inicial-en-broche-de-4-copia)
@@ -36,5 +37,7 @@ Durante la conversacion decirle que si maneja fuentes diferentes, puede indicarn
 
 ## Copy (Brief)
 [[Zettels/namepreview-jewerly-jtbd-pc-fonts-copy|namepreview-jewerly-jtbd-pc-fonts-copy]]
+
+
 
 ---
