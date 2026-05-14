@@ -14,9 +14,9 @@ En productos personalizados, enviar a los proveedores haciendome pasar por clien
 ---
 
 ## Connections:
-- [[]]
+- [[Fleetings/namepreview-cold-messaging-trojan-web|namepreview-cold-messaging-trojan-web]]
 
 ---
 
 ## Questions for Further Exploration:
-- Como puedo validar a la vez si les interesa bajar el vector listo para trabajar? de momento se que tendrian que modificarlo por que no tiene las medidas.
+- Como puedo validar a la vez si les interesa bajar el vector listo para trabajar? No conocemos las medidas que ocupan, por lo que debemos poner un input
