@@ -25,9 +25,11 @@ tags:
 Que perfil debo proyectar en la comunidad? por ahora mostrare mi trabajo en:
 [ortiz.studio](https://ortiz.studio) y [[Mocs/ganaderia-carniceria-moc|ganaderia-carniceria-moc]]
 
-## En proceso
-- [[Fleetings/cocina-comunitaria|cocina-comunitaria]]
-- Crear interaccion entre las distintas comunidades, por ejemplo enfocarnos en mente sana en cuerpo sano, donde haya programa en conjunto con cocina, gym y clases de meditacion, o en eventos publicos de caceria, donde se ensene a cocinar las presas o ofrecer platillos con estas.
+## Ideas
+- [[Fleetings/i-cocina-comunitaria|i-cocina-comunitaria]]
+- [[Fleetings/i-crear-objetivo-dependencias-colaboran|i-crear-objetivo-dependencias-colaboran]]
+- [[Fleetings/i-mentores-pueblo|i-mentores-pueblo]]
+- [[Fleetings/i-banco-semillas|i-banco-semillas]]
 
 
 ---

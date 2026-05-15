@@ -28,7 +28,8 @@ Separe mi mi yo en roles [[Literature/arquetipos-junguianos|arquetipos-junguiano
 
 ## Sistema Operativo interno
 [[Mocs/mis-habilidades-moc|mis-habilidades-moc]]
-## El uso del eBrain con exocorteza## Representar mis ideas:
+## El uso del eBrain con exocorteza
+## Representar mis ideas:
 Para representar mis ideas atomicas, normalmente las relaciono a un [[Mocs/arquetipos-yo-moc|arquetipo]], utilizo el metodo [[Mocs/zettelkasten-moc|zettelkasten-moc]] y el software Obsidian, con un [[Mocs/obsidian-config-moc|obsidian-config-moc]]  que  me permite ser productivo, ademas de pasar rapido datos a la IA.
 ## IA - Analisis / Espejo Logico 
 Para usar la IA de manera rapida uso gemini-cli y lo lanzo sobre kitty con [[Mocs/kitty-config-moc|kitty-config-moc]], esa configuracion.
