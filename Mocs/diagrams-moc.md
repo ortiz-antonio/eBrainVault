@@ -6,6 +6,6 @@ tags:
 ---
 
 # Map of Content: 
-- [[Zettels/c4|c4]]
+- [[Mocs/c4|c4]]
 
 ---

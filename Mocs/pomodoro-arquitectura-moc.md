@@ -17,7 +17,7 @@ Diagrama enfocado en el uso de la app por parte del usuario.
 - [[Zettels/pomodoro-tasks-format|pomodoro-tasks-format]]
 - [[Zettels/pomodoro-suite|pomodoro-suite]]
 ## Connections:
-[[Zettels/c4|c4]]
+[[Mocs/c4|c4]]
 
 
 ---

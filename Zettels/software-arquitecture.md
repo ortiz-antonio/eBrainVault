@@ -29,7 +29,7 @@ Documentar desiciones mediante [[Zettels/architecture-decision-record|architectu
 ---
 
 ## Connections:
-- [[Zettels/c4|c4]]
+- [[Mocs/c4|c4]]
 - [[Zettels/architecture-decision-record|architecture-decision-record]]
 
 ---

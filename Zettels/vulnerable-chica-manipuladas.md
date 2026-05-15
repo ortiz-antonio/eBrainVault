@@ -36,6 +36,10 @@ Mi experimento dos: debe ser sobre darte cuenta de repetir los mismos errores y 
 ## Connections:
 - [[Literature/reprogramacion-claridad-estructural|reprogramacion-claridad-estructural]]
 
+## Con la chica original
+La chica con lo que vi que estaba pasando:
+Cuanto todos me consideraban fracasado: A veces la notaba muy atenta viendome, mientras hacia algo, que me habia tomado anios dominar, si la sacaba de esa situacion, condenaria a las demas, pero ahora construire un entorno seguro, para que ella se construya a si misma, junto con el resto de chicas.
+
 ---
 
 ## Questions for Further Exploration:

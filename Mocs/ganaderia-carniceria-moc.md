@@ -16,9 +16,7 @@ Segun su conversacion estas son mis observaciones:
 - La asociacion ganadera ya lo intento
 - Las personas no compraron por que no estan impuestas a ir a la asociacion ganadera por carne, ademas que hicieron paquetes, no podian comprar segun lo que quisieran.
 
-###  Propuesta
-[[Zettels/e-ganaderia-carniceria-propuesta-ganadera|e-ganaderia-carniceria-propuesta-ganadera]]
-
+2026-05-15: Le comente partes de la [[Zettels/e-ganaderia-carniceria-propuesta-ganadera|e-ganaderia-carniceria-propuesta-ganadera]] en especial solo que, los carniceros compran por partes, ella pregunto quieres poner carniceria? y le dije no exactamente,  pero por que no se consume carne local? ella afirmo, es mas sana y sabroza, le dije la compran en monterrey pudiendola comprar aqui. Tengo su apoyo, esta buscando venderme becerros, nadamas, no le interesa el resto del modelo de negocio, mi observacion es que probablemente de ella solo ocupe, vendeme el becerro y lo ideal para mi es que ella lo deje en el rastro.
 ### Feedback carnicero
 Hable con el carnicero [[Zettels/e-ganaderia-feedback-carniceria|e-ganaderia-feedback-carniceria]]
 Segun la conversacion estas son mis observaciones:
@@ -29,7 +27,11 @@ Segun la conversacion estas son mis observaciones:
 	- Comprar el becerro completo
 	- Tener dos tipos de carne: local y la comercial
 
+###  Propuesta
+[[Zettels/e-ganaderia-carniceria-propuesta-ganadera|e-ganaderia-carniceria-propuesta-ganadera]]
+
 ## Observaciones
+Necesito disenar el sistema sin friccion, donde cada pieza es responsable de su parte. Por ejemplo: Ganadera se encarga de dejar el becerro en rastro, quiza usando [[Mocs/c4|c4]] para ver el sistema completo, validare cada parte mediante [[Zettels/sonda-tribu-market-fit|sonda-tribu-market-fit]]
 ### Distribuidor minorista
 Hay un distribuidor minorista que surte las tiendas de la region, su producto mas popular es la carne molida en paquetitos de 1/2 kg, lo venden congelado
 
