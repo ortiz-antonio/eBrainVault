@@ -31,7 +31,7 @@ Segun la conversacion estas son mis observaciones:
 [[Zettels/e-ganaderia-carniceria-propuesta-ganadera|e-ganaderia-carniceria-propuesta-ganadera]]
 
 ## Observaciones
-Necesito disenar el sistema sin friccion, donde cada pieza es responsable de su parte. Por ejemplo: Ganadera se encarga de dejar el becerro en rastro, quiza usando [[Mocs/c4|c4]] para ver el sistema completo, validare cada parte mediante [[Zettels/sonda-tribu-market-fit|sonda-tribu-market-fit]]
+Necesito ser un distribuidor de carne, como selecta, donde cada pieza es responsable de su parte. Por ejemplo: Ganadera se encarga de dejar el becerro en rastro, quiza usando [[Mocs/c4|c4]] para ver el sistema completo, validare cada parte mediante [[Zettels/sonda-tribu-market-fit|sonda-tribu-market-fit]]
 ### Distribuidor minorista
 Hay un distribuidor minorista que surte las tiendas de la region, su producto mas popular es la carne molida en paquetitos de 1/2 kg, lo venden congelado
 
