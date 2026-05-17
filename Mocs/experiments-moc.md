@@ -4,7 +4,6 @@ tags:
 ---
 
 ---
-
 # Rules
 - [[Zettels/effectuation|effectuation]]
 - [[Zettels/minimalismo|minimalismo]]
@@ -21,7 +20,5 @@ tags:
 ## Done
 [[Zettels/e-chicas-manipulada-musica|e-chicas-manipulada-musica]]
 [[Zettels/e-ganaderia-feedback-carniceria|e-ganaderia-feedback-carniceria]]
-
-
 
 ---

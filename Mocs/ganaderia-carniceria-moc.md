@@ -29,7 +29,6 @@ Segun la conversacion estas son mis observaciones:
 
 ###  Propuesta
 [[Zettels/e-ganaderia-carniceria-propuesta-ganadera|e-ganaderia-carniceria-propuesta-ganadera]]
-
 ## Observaciones
 Necesito ser un distribuidor de carne, como selecta, donde cada pieza es responsable de su parte. Por ejemplo: Ganadera se encarga de dejar el becerro en rastro, quiza usando [[Mocs/c4|c4]] para ver el sistema completo, validare cada parte mediante [[Zettels/sonda-tribu-market-fit|sonda-tribu-market-fit]]
 ### Distribuidor minorista
@@ -48,9 +47,6 @@ Para los que quieran ahorrar trabajo, venderles la carne ya cortada para almacen
 
 ## Segunda etapa
 [[Zettels/ganaderia-carniceria-carne-seca|ganaderia-carniceria-carne-seca]]
-
-
-
 
 ---
 
