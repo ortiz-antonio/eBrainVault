@@ -18,7 +18,9 @@ tags:
 [[Zettels/e-ganaderia-carniceria-propuesta-ganadera|e-ganaderia-carniceria-propuesta-ganadera]]
 [[Zettels/e-namepreview-jewerly-jtbd-pc-fonts-etsy|e-namepreview-jewerly-jtbd-pc-fonts-etsy]]
 ## Done
-[[Zettels/e-chicas-manipulada-musica|e-chicas-manipulada-musica]]
 [[Zettels/e-ganaderia-feedback-carniceria|e-ganaderia-feedback-carniceria]]
+## Waiting
+[[Zettels/e-chicas-manipulada-musica|e-chicas-manipulada-musica]]
+
 
 ---

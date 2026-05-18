@@ -58,7 +58,7 @@ Cuanto todos me consideraban fracasado: A veces la notaba muy atenta viendome, m
 
 ## Resultados
 ### En suspension
-2026-05-18: En suspension hasta que el entorno sea mas favorable, o si veo que ella resiste el hoovering, si me preciputo la puedo perjudir en lugar de ayudarla
+2026-05-18: En suspension hasta que el entorno sea mas favorable, o si veo que ella resiste el hoovering, si me precipito la puedo perjudir en lugar de ayudarla
 
 ---
 
