@@ -30,12 +30,13 @@ Segun la conversacion estas son mis observaciones:
 ###  Propuesta
 [[Zettels/e-ganaderia-carniceria-propuesta-ganadera|e-ganaderia-carniceria-propuesta-ganadera]]
 ## Observaciones
-Necesito ser un distribuidor de carne, como selecta, donde cada pieza es responsable de su parte. Por ejemplo: Ganadera se encarga de dejar el becerro en rastro, quiza usando [[Mocs/c4|c4]] para ver el sistema completo, validare cada parte mediante [[Zettels/sonda-tribu-market-fit|sonda-tribu-market-fit]]
 ### Distribuidor minorista
 Hay un distribuidor minorista que surte las tiendas de la region, su producto mas popular es la carne molida en paquetitos de 1/2 kg, lo venden congelado
 
 ## Modelado solucion
 Estoy asumiendo que se debe incluir a las carnicerias locales en la venta segun [[#Feedback ganadera]]
+Necesito ser un distribuidor de carne, como selecta, donde cada pieza es responsable de su parte. Por ejemplo: Ganadera se encarga de dejar el becerro en rastro, quiza usando [[Mocs/c4|c4]] para ver el sistema completo, validare cada parte mediante [[Zettels/sonda-tribu-market-fit|sonda-tribu-market-fit]]
+
 ### Carnicerias La solucion segun el [[#Feedback carnicero]]
 - Vender piezas segun ocupen: Paleta, costillares, etc... 
 - Trabajar en marca local, ejemplo carne fresca natural, ayudas a productores y la economia local
