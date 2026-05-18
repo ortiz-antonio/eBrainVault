@@ -13,11 +13,11 @@ tags:
 ## TODO
 [[Zettels/experiment-software-dev-tribe-frontend|experiment-software-dev-tribe-frontend]]
 [[Mocs/yotopo-tokens-moc|yotopo-tokens-moc]]
+[[Zettels/e-chicas-manipulada-modificar-conducta|e-chicas-manipulada-modificar-conducta]]
 ## Doing
 [[Zettels/e-ganaderia-carniceria-propuesta-ganadera|e-ganaderia-carniceria-propuesta-ganadera]]
 [[Zettels/e-namepreview-jewerly-jtbd-pc-fonts-etsy|e-namepreview-jewerly-jtbd-pc-fonts-etsy]]
 ## Done
-[[Zettels/e-chicas-manipulada-modificar-conducta|e-chicas-manipulada-modificar-conducta]]
 [[Zettels/e-chicas-manipulada-musica|e-chicas-manipulada-musica]]
 [[Zettels/e-ganaderia-feedback-carniceria|e-ganaderia-feedback-carniceria]]
 

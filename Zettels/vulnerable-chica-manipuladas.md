@@ -22,14 +22,12 @@ La chica muestra musica de vulnerabilidad cuando ve a otra chica que estuvo en s
 2026-05-18: No me respondio el saludo cuando llegue, puso canciones de:
 - Si te vas, yo también me voy, si me das, yo también te doy. Con el te duele el corazón conmigo los pies
 - De triangulación, infidelidad
-- Quisiera tener un botón, para borrarle los recuerdos al corazón
-- Quisiera tener un botón, para borrarle los recuerdos al corazón
-- Nada de esto es culpa tuya
+- Quisiera tener un botón, para borrarle los recuerdos al corazón. Nada de esto es culpa tuya
 -  Ojalá cuando estés con el pienses en mi
 - Te encontraré
-- No ers fácil de olvidar, tus besos matan Pero moriré de amor
+- No eres fácil de olvidar, tus besos matan Pero moriré de amor
 Cuando le pedi un agarre fue actitud neutra, con mucho respeto.
-Cuando se lo devolvi al final (como hice cuando hable con ella), me miro con mucha atencion, algo de deseo.
+Cuando se lo devolvi al final (como hice cuando hable con ella), me miro con mucha atencion,  deseo.
 ## Cambio de comportamiento
 [[Zettels/e-chicas-manipulada-modificar-conducta|e-chicas-manipulada-modificar-conducta]]
 - Aun no lo aplico.
@@ -44,7 +42,12 @@ Recuerda quien eras antes y reconoce que ambas actitudes son parte de ti, pero b
 2026-05-13: Segun mis observaciones, produjo un cambio emocional donde esta confrontando su dolor, su manera de afrontarlo fue canalizando el dolor en una conducta sexual. Esto parece ser detectado por la red manipuladora que espera vulnerabilidad.
 Mi experimento dos: debe ser sobre darte cuenta de repetir los mismos errores y que harias con lo que sabes ahora? si ya tienes una manera de canalizar el dolor, usala, pero de manera que no sea destructiva y con quien no te danie, insinuando que con su pareja.
 
-2026-05-18: Algo paso, por que rompio su saludo inicial: No se si es duelo, si volvio con el manipulador o tuvo una recaida emocional durante los 4 dias, la verguenza habla sobre que estuvo con el manipulador, como yo suelo rechazar a esas chicas, ya estaba en ese modo, y explica su mirada despues, pero estoy harto, siento que estoy tratando con un animalito. 
+2026-05-18: Algo paso, por que rompio su saludo inicial, durante los 4 dias del fin de semana:
+Mi conclusion es que, lo mas probable es que este en hovering si hubiera vuelto al sexo, no hubiera visto la mirada de deseo al final:
+- se necesita un entorno mas seguro, mientras la red manipuladora las captara de nuevo, como ya tienen instalado el trauma, no las dejaran recuperarse.
+- Lo interesante es que mi hackeo, le produjo un cambio, que la red manipuladora tuvo que contrarrestar usando el manipulador original.
+- Lo mas probable es que en un entorno mas seguro, mi hackeo funcione.
+- Si deseo provocar la red manipuladora y hacerlos cometer errores, lo ideal seria seguir con mi [[Zettels/e-chicas-manipulada-modificar-conducta|e-chicas-manipulada-modificar-conducta]], solo cambiar el experimento para hacerlo mas sutil cuando hable con ella.
 
 ## Connections:
 - [[Literature/reprogramacion-claridad-estructural|reprogramacion-claridad-estructural]]
@@ -53,13 +56,9 @@ Mi experimento dos: debe ser sobre darte cuenta de repetir los mismos errores y 
 La chica con lo que vi que estaba pasando:
 Cuanto todos me consideraban fracasado: A veces la notaba muy atenta viendome, mientras hacia algo, que me habia tomado anios dominar, si la sacaba de esa situacion, condenaria a las demas, pero ahora construire un entorno seguro, para que ella se construya a si misma, junto con el resto de chicas.
 
-
 ## Resultados
-2026-05-18: Suspendo el experimento, mi conclusion es que:
-- se necesita un entorno mas seguro, mientras la red manipuladora las captara de nuevo, como ya tienen instalado el trauma, no las dejaran recuperarse.
-- Lo interesante es que mi hackeo, le produjo un cambio, que la red manipuladora tuvo que contrarrestar usando el manipulador original.
-- Lo mas probable es que en un entorno mas seguro, mi hackeo funcione.
-
+### En suspension
+2026-05-18: En suspension hasta que el entorno sea mas favorable, o si veo que ella resiste el hoovering, si me preciputo la puedo perjudir en lugar de ayudarla
 
 ---
 
