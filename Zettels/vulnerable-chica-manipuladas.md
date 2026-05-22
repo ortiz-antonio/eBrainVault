@@ -28,6 +28,9 @@ La chica muestra musica de vulnerabilidad cuando ve a otra chica que estuvo en s
 - No eres fácil de olvidar, tus besos matan Pero moriré de amor
 Cuando le pedi un agarre fue actitud neutra, con mucho respeto.
 Cuando se lo devolvi al final (como hice cuando hable con ella), me miro con mucha atencion,  deseo.
+
+2026-05-21: Saludo normal, ignoro al hombre que intenta estar con ella y la red manipuladora esta empujandola con el, parece que estan esperando que yo la ignore o trate mal para que el se acomode, marcaron territorio haciandola que se levantara con el telefono en la mano, para hacerme saber que esta con alguien, puso canciones de: Canciones tranquilas, Sia im stoppable
+
 ## Cambio de comportamiento
 [[Zettels/e-chicas-manipulada-modificar-conducta|e-chicas-manipulada-modificar-conducta]]
 - Aun no lo aplico.
