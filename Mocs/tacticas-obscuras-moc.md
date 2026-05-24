@@ -9,8 +9,11 @@ tags:
 
 ## Adversarios
 - [[Zettels/vulnerable-aprovechable|vulnerable-aprovechable]]
+- [[Zettels/usar-mismos-mensajeros-disonancia|usar-mismos-mensajeros-disonancia]]
+- [[Zettels/imitacion de actitudes|imitacion de actitudes]]
 
 ## las he usado
 - [[Zettels/llenado-vacios|llenado-vacios]]
+- [[Zettels/hackeo-mensajeros|hackeo-mensajeros]]
 
 ---

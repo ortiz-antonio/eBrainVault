@@ -29,8 +29,11 @@ Que perfil debo proyectar en la comunidad? por ahora mostrare mi trabajo en:
 - [[Fleetings/i-cocina-comunitaria|i-cocina-comunitaria]]
 - [[Fleetings/i-crear-objetivo-dependencias-colaboran|i-crear-objetivo-dependencias-colaboran]]
 - [[Fleetings/i-mentores-pueblo|i-mentores-pueblo]]
+- adultos-comparten-experiencias
 - [[Fleetings/i-banco-semillas|i-banco-semillas]]
 - [[Fleetings/i-madera-reciclada-maquetas-estudiantes|i-madera-reciclada-maquetas-estudiantes]]
+- Tratado de libre comercio, aprovechar.
+- Pagar a los jovenes y enviarlos a trabajos reales, para que aprendan, los talleres no le pagan el salario
 
 ## Defensiva / ofensiva
 [[Zettels/defensiva-ofensiva-critica|defensiva-ofensiva-critica]]
