@@ -31,6 +31,9 @@ Cuando se lo devolvi al final (como hice cuando hable con ella), me miro con muc
 
 2026-05-21: Saludo normal, ignoro al hombre que intenta estar con ella y la red manipuladora esta empujandola con el, parece que estan esperando que yo la ignore o trate mal para que el se acomode, marcaron territorio haciandola que se levantara con el telefono en la mano, para hacerme saber que esta con alguien, puso canciones de: Canciones tranquilas, Sia im stoppable
 
+2026-05-25: Canciones de esperando tus mensajes, despues reaccino a yo soy la que manda.
+
+2026-05-26: La red manipuladora uso una captacion indirecta, usando la chica pero para enviarmela a mi, como sienod ellos quienes dan el permiso, fui amable con la chica, pero ignore su coqueteo.
 ## Cambio de comportamiento
 [[Zettels/e-chicas-manipulada-modificar-conducta|e-chicas-manipulada-modificar-conducta]]
 - Aun no lo aplico.
@@ -61,7 +64,9 @@ Cuanto todos me consideraban fracasado: A veces la notaba muy atenta viendome, m
 
 ## Resultados
 ### En suspension
-2026-05-18: En suspension hasta que el entorno sea mas favorable, o si veo que ella resiste el hoovering, si me precipito la puedo perjudir en lugar de ayudarla
+2026-05-18: En suspension hasta que el entorno sea mas favorable, o si veo que ella resiste el hoovering, si me precipito la puedo perjudir en lugar de ayudarla.
+
+2026-05-26: Sigue en suspencion, fui amable tras que la red intento enviarmela como dando su permiso, lo que estaban haciendo era buscar mantener control.
 
 ---
 

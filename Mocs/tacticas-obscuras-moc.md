@@ -10,7 +10,7 @@ tags:
 ## Adversarios
 - [[Zettels/vulnerable-aprovechable|vulnerable-aprovechable]]
 - [[Zettels/usar-mismos-mensajeros-disonancia|usar-mismos-mensajeros-disonancia]]
-- [[Zettels/imitacion de actitudes|imitacion de actitudes]]
+- [[Zettels/imitacion_actitudes_comportamientos|imitacion_actitudes_comportamientos]]
 
 ## las he usado
 - [[Zettels/llenado-vacios|llenado-vacios]]
