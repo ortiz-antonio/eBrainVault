@@ -15,5 +15,6 @@ tags:
 ## las he usado
 - [[Zettels/llenado-vacios|llenado-vacios]]
 - [[Zettels/hackeo-mensajeros|hackeo-mensajeros]]
+- [[Zettels/doble-mensaje|doble-mensaje]]
 
 ---
