@@ -34,6 +34,10 @@ Cuando se lo devolvi al final (como hice cuando hable con ella), me miro con muc
 2026-05-25: Canciones de esperando tus mensajes, despues reaccino a yo soy la que manda.
 
 2026-05-26: La red manipuladora uso una captacion indirecta, usando la chica pero para enviarmela a mi, como sienod ellos quienes dan el permiso, fui amable con la chica, pero ignore su coqueteo.
+
+2026-05-27: La chica mostro canciones de duelo por mi, como la de queria ser la madre de tus hijos, la vi dolida, sospecho que el duelo es algo bueno y es la primera parte de sanar.
+
+
 ## Cambio de comportamiento
 [[Zettels/e-chicas-manipulada-modificar-conducta|e-chicas-manipulada-modificar-conducta]]
 - Aun no lo aplico.
@@ -54,6 +58,7 @@ Mi conclusion es que, lo mas probable es que este en hovering si hubiera vuelto 
 - Lo interesante es que mi hackeo, le produjo un cambio, que la red manipuladora tuvo que contrarrestar usando el manipulador original.
 - Lo mas probable es que en un entorno mas seguro, mi hackeo funcione.
 - Si deseo provocar la red manipuladora y hacerlos cometer errores, lo ideal seria seguir con mi [[Zettels/e-chicas-manipulada-modificar-conducta|e-chicas-manipulada-modificar-conducta]], solo cambiar el experimento para hacerlo mas sutil cuando hable con ella.
+- 2026-05-27: Creo que finalmente cuando ella resistio la manipulacion original, y luego fue captada para ofrecermela a mi, y yo al ser amable pero rechazarla, le produjo el dolor emocional que mostro, fue un simbolo de duelo, mi hipotesis es que al aceptar su solor, entro en la primera parte de su sanacion. Pero aun necesita un entorno seguro.
 
 ## Connections:
 - [[Literature/reprogramacion-claridad-estructural|reprogramacion-claridad-estructural]]
@@ -67,6 +72,8 @@ Cuanto todos me consideraban fracasado: A veces la notaba muy atenta viendome, m
 2026-05-18: En suspension hasta que el entorno sea mas favorable, o si veo que ella resiste el hoovering, si me precipito la puedo perjudir en lugar de ayudarla.
 
 2026-05-26: Sigue en suspencion, fui amable tras que la red intento enviarmela como dando su permiso, lo que estaban haciendo era buscar mantener control.
+
+2026-05-27: La chica mostro duelo por mi, creo que empieza sanacion
 
 ---
 
