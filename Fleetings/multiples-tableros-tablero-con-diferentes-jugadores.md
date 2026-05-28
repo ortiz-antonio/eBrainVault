@@ -149,6 +149,8 @@ en estrategia política,
   tú construyendo un entorno nuevo e independiente) te da un inmenso poder político.
 
 
+Voy a elegir SNA, por que lo puedo implementar en zettelkasten nativamente, ya estoy impuesto a este modo de pensar, no tener toda la informacion pero ir acompletandola para tener el mapa completo.
+
 ---
 
 ## Connections:
