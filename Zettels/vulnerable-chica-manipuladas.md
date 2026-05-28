@@ -35,8 +35,9 @@ Cuando se lo devolvi al final (como hice cuando hable con ella), me miro con muc
 
 2026-05-26: La red manipuladora uso una captacion indirecta, usando la chica pero para enviarmela a mi, como sienod ellos quienes dan el permiso, fui amable con la chica, pero ignore su coqueteo.
 
-2026-05-27: La chica mostro canciones de duelo por mi, como la de queria ser la madre de tus hijos, la vi dolida, sospecho que el duelo es algo bueno y es la primera parte de sanar.
+2026-05-27: La chica mostro canciones de duelo, como la de queria ser la madre de tus hijos, la vi dolida, sospecho que el duelo es algo bueno y es la primera parte de sanar.
 
+2026-05-28: La chica puse canciones de Ya lo veía venir de moderatto y  De la noche a la mañana - Elefante, la vi con cara de avergonzada
 
 ## Cambio de comportamiento
 [[Zettels/e-chicas-manipulada-modificar-conducta|e-chicas-manipulada-modificar-conducta]]
@@ -58,8 +59,8 @@ Mi conclusion es que, lo mas probable es que este en hovering si hubiera vuelto 
 - Lo interesante es que mi hackeo, le produjo un cambio, que la red manipuladora tuvo que contrarrestar usando el manipulador original.
 - Lo mas probable es que en un entorno mas seguro, mi hackeo funcione.
 - Si deseo provocar la red manipuladora y hacerlos cometer errores, lo ideal seria seguir con mi [[Zettels/e-chicas-manipulada-modificar-conducta|e-chicas-manipulada-modificar-conducta]], solo cambiar el experimento para hacerlo mas sutil cuando hable con ella.
-- 2026-05-27: Creo que finalmente cuando ella resistio la manipulacion original, y luego fue captada para ofrecermela a mi, y yo al ser amable pero rechazarla, le produjo el dolor emocional que mostro, fue un simbolo de duelo, mi hipotesis es que al aceptar su solor, entro en la primera parte de su sanacion. Pero aun necesita un entorno seguro.
-
+2026-05-27: Creo que finalmente cuando ella resistio la manipulacion original, y luego fue captada para ofrecermela a mi, y yo al ser amable pero rechazarla, le produjo el dolor emocional que mostro, fue un simbolo de duelo, mi hipotesis es que al aceptar su solor, entro en la primera parte de su sanacion. Pero aun necesita un entorno seguro.
+2026-05-28: Al poner las canciones de ya lo veia venir, esta recordando la situacion que paso, fue un error mio la hipotesis que estaba en duelo por mi, fue una transferencia, la vi un poco apenada, creo que ya reconoce su situacion.
 ## Connections:
 - [[Literature/reprogramacion-claridad-estructural|reprogramacion-claridad-estructural]]
 
