@@ -38,6 +38,15 @@ Que perfil debo proyectar en la comunidad? por ahora mostrare mi trabajo en:
 ## Defensiva / ofensiva
 [[Zettels/defensiva-ofensiva-critica|defensiva-ofensiva-critica]]
 
+## Adversario
+- Tendencia a tomar ideas y comportamientos y hacerlos pasar como propios
+- Esta practicando como lanzar indirectas y ser sutil
+- Su forma de ayudar a la economia fue mudar su negocio a un local mas grande dando empleo para acondicionarlo
+- Es leal con sus seguidores, pagando por los errores que sus seguidores cometen
+- Tiene ego fragil
+- No tiene paciencia
+- Esta haciendo pequenas donaciones, en las redes le agradecen
+
 ## Riesgos propaganda
 Al parecer el unico riesgo es que tomen mis iniciativas y las hagan pasar como propias(El adversario politico si tiene esa costumbre de imitar), mi estrategia debe ser entonces ser un distribuidor en [[Mocs/ganaderia-carniceria-moc|ganaderia-carniceria-moc]] pero evitando dar los detalles mas adelante, mostrarles que como creo aplicaciones web, tambien lo aterrizo en proyectos locales.
 
