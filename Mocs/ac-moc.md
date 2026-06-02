@@ -15,6 +15,10 @@ tags:
 - [[Fleetings/ac-condicionamiento-saludo-recor|ac-condicionamiento-saludo-recor]]
 - [[Fleetings/ac-atencion|ac-atencion]]
 
+## Entendimiento segun sus acciones
+- [[Zettels/ac-refuerzo-sentirme-cansado|ac-refuerzo-sentirme-cansado]]
+- [[Zettels/mantener-foco-tablero|mantener-foco-tablero]]
+
 ## Acciones
 - Mandarme de su equipo poco a poco para que los conozca y salude
 - Implicar al adversario, con un oponente en declive politico, que fue otro adversario mio
