@@ -13,14 +13,14 @@ Probar la estrategia de [[Fleetings/namepreview-cold-messaging-trojan|nameprevie
 
 ## Pomodoro
 ### TODO
-- Crear base de datos de 10 joyerias de etsy.
 
 ### DONE
 2026-06-03: Tomar contexto y setup de seccion de pomodoro
 2026-06-03: Encontre solo una red social, lo compolicado aqui es que, no estoy encontrando redes sociales de los vendedores de etsy, pero solo llevo 4 vistos y solo 1 con email y datos de contacto
+2026-06-03: Crear base de datos de 10 joyerias de etsy.
 
 ## Connections:
-- [[Fleetings/namepreview-jewerly-jtbd-pc-fonts-prospects-etsy|namepreview-jewerly-jtbd-pc-fonts-prospects-etsy]]
+- [[Zettels/namepreview-jewerly-jtbd-pc-fonts-prospects-etsy|namepreview-jewerly-jtbd-pc-fonts-prospects-etsy]]
 
 ---
 
