@@ -68,6 +68,9 @@ Mi conclusion es que, lo mas probable es que este en hovering si hubiera vuelto 
 La chica con lo que vi que estaba pasando:
 Cuanto todos me consideraban fracasado: A veces la notaba muy atenta viendome, mientras hacia algo, que me habia tomado anios dominar, si la sacaba de esa situacion, condenaria a las demas, pero ahora construire un entorno seguro, para que ella se construya a si misma, junto con el resto de chicas.
 
+### Agencia en la disrupción (2026-06-02)
+Esta disrupción la realicé por iniciativa propia. Aunque el entorno se recalibró por esta acción (creando una dinámica entre aliados y gente en contra), adopté el papel necesario para los aliados y seguí el guion momentáneamente, consciente de que esto es parte de un panorama mucho más grande. Es un ejercicio de control y visión estratégica, no de reactividad.
+
 ## Resultados
 ### En suspension
 2026-05-18: En suspension hasta que el entorno sea mas favorable, o si veo que ella resiste el hoovering, si me precipito la puedo perjudir en lugar de ayudarla.
