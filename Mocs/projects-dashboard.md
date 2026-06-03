@@ -28,7 +28,6 @@ Trato de hacer todo, pero no tengo el perfil para todo, me di cuenta que soy bue
 - Crear ejemplo de numero 500 en granito para tomar fotos [[Attachments/granite-number-500-example.svg]]
 [[Mocs/project-namepreview-jewerly-ecosystem-moc|project-namepreview-jewerly-ecosystem-moc]]
 [[Mocs/project-namepreview-jewerly-local-dashboard-moc|project-namepreview-jewerly-local-dashboard-moc]]
-[[Shadow/Mocs/analisis-incidente-joyeria-moc|analisis-incidente-joyeria-moc]]
 [[Zettels/backup-with-bare-repository|backup-with-bare-repository]]
 [[Archive/noelia_camioneta-pieza/camioneta-pieza-dashboard|camioneta-pieza-dashboard]]
 

@@ -6,6 +6,8 @@ tags:
 ---
 
 # Map of Content: 
+Fue companero mason de mi papa, lo conoce bien y sus fallas.
+
 ## Mensajes
 - [[Zettels/ac-tecnologia-japon-reconstruccion|ac-tecnologia-japon-reconstruccion]]
 - [[Fleetings/ac-fuerte|ac-fuerte]]
@@ -13,7 +15,8 @@ tags:
 ## Mentoria
 - [[Fleetings/condicionamiento-ira|condicionamiento-ira]]
 - [[Fleetings/ac-condicionamiento-saludo-recor|ac-condicionamiento-saludo-recor]]
-- [[Fleetings/ac-atencion|ac-atencion]]
+- [[Zettels/ac-atencion|ac-atencion]]
+- [[Zettels/condicionamiento-enfrentamiento-en-lugar-depresion|condicionamiento-enfrentamiento-en-lugar-depresion]]
 
 ## Entendimiento segun sus acciones
 - [[Zettels/ac-refuerzo-sentirme-cansado|ac-refuerzo-sentirme-cansado]]
