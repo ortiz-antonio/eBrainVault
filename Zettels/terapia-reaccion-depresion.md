@@ -14,6 +14,7 @@ Recuerdo a mi padre gritarme por que no puedes! mientras estaba en ese esatado, 
 
 Yo sentia es que no puedo! justo como estoy sintiendo ahora.
 
+Estoy notando que tengo dos modos de funcionamiento, ira -> donde funciono mejor y estupor que me da sueno.
 
 ---
 
