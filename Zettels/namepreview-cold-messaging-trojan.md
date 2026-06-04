@@ -14,7 +14,7 @@ En productos personalizados, enviar a los proveedores haciendome pasar por clien
 ---
 
 ## Connections:
-- [[Fleetings/namepreview-cold-messaging-trojan-web|namepreview-cold-messaging-trojan-web]]
+- [[Zettels/namepreview-cold-messaging-trojan-web|namepreview-cold-messaging-trojan-web]]
 
 ---
 

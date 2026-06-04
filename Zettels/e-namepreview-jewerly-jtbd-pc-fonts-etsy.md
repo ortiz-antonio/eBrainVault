@@ -7,7 +7,7 @@ tags:
 
 # etsy tribe
 Ver las joyerias de etsy y luego contactarlas por sus redes sociales para prospectar.
-Probar la estrategia de [[Fleetings/namepreview-cold-messaging-trojan|namepreview-cold-messaging-trojan]]
+Probar la estrategia de [[Zettels/namepreview-cold-messaging-trojan|namepreview-cold-messaging-trojan]]
 
 ---
 

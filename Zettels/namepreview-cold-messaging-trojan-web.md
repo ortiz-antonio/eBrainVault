@@ -26,7 +26,7 @@ https://www.namepreview.app/demo/woodnames?name=Emma?font=Milkshake
 ---
 
 ## Connections:
-- [[Fleetings/namepreview-cold-messaging-trojan|namepreview-cold-messaging-trojan]]
+- [[Zettels/namepreview-cold-messaging-trojan|namepreview-cold-messaging-trojan]]
 
 ---
 
