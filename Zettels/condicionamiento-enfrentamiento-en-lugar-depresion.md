@@ -21,7 +21,7 @@ Estoy nervioso y temblando. Asi me sentia de ninio, cuando papa me empezaba a gr
 ---
 
 ## Connections:
-- [[]]
+- [[Zettels/terapia-reaccion-depresion|terapia-reaccion-depresion]]
 
 ---
 
