@@ -12,6 +12,8 @@ Estoy notando que tambien viene desde nino, esa somnolencia y necesidad de dormi
 
 Recuerdo a mi padre gritarme por que no puedes! mientras estaba en ese esatado, fue cuando empece a apagar las emociones.
 
+Yo sentia es que no puedo! justo como estoy sintiendo ahora.
+
 
 ---
 
