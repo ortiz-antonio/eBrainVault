@@ -53,7 +53,7 @@ Para los que quieran ahorrar trabajo, venderles la carne ya cortada para almacen
 
 
 ## Fricciones
-El [[#Fedback carnicero vende carne local]] choca directamente con [[#Feedback ganadera]] que estaba muy interesada en vender becerros. Creo que no hay ganado de engorda local.
+El [[#Fedback carnicero vende carne local]] choca directamente con [[#Feedback ganadera]] que estaba muy interesada en vender becerros. Creo que no hay ganado de engorda local. Escuche la ganadera confirmar, es cierto este carnicero no compra becerros de engorda.
 - Debo ir poco a poco con el, para hacer confianza, 
 
 ## Segunda etapa
