@@ -17,6 +17,7 @@ Fue companero mason de mi papa, lo conoce bien y sus fallas.
 - [[Fleetings/ac-condicionamiento-saludo-recor|ac-condicionamiento-saludo-recor]]
 - [[Zettels/ac-atencion|ac-atencion]]
 - [[Zettels/condicionamiento-enfrentamiento-en-lugar-depresion|condicionamiento-enfrentamiento-en-lugar-depresion]]
+- [[Zettels/trabajador-bueno-vs-trabajador-constante|trabajador-bueno-vs-trabajador-constante]]
 
 ## Entendimiento segun sus acciones
 - [[Zettels/ac-refuerzo-sentirme-cansado|ac-refuerzo-sentirme-cansado]]

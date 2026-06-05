@@ -27,6 +27,11 @@ Segun la conversacion estas son mis observaciones:
 	- Comprar el becerro completo
 	- Tener dos tipos de carne: local y la comercial
 
+## Fedback carnicero vende carne local
+Hable con carnicero vende carne local [[Zettels/ganaderia-carniceria-entrevista-carnicero-carne-local|ganaderia-carniceria-entrevista-carnicero-carne-local]]
+Segun la conversacion:
+- Batalla para conseguir becerros por que los ganaderos prefieren vender ganado de engorda, por que lo pagan mejor
+
 ###  Propuesta
 [[Zettels/e-ganaderia-carniceria-propuesta-ganadera|e-ganaderia-carniceria-propuesta-ganadera]]
 ## Observaciones
@@ -45,6 +50,10 @@ Necesito ser un distribuidor de carne, como selecta, donde cada pieza es respons
 - Darles un anuncio o lona del branding, hablando de la carne local, para quedar en el inconciente del cliente, compras carne local.
 ### Tiendas minoristas
 Para los que quieran ahorrar trabajo, venderles la carne ya cortada para almacenar, ( Localizar carnicerias que quieran hacer maquila de corte, para generar empleos ) , dandoles la flexibilidad de venderles al cliente lo que ocupan, actuando como un [[#Distribuidor minorista]]
+
+
+## Fricciones
+El [[#Fedback carnicero vende carne local]] choca directamente con [[#Feedback ganadera]] que estaba muy interesada en vender becerros.
 
 ## Segunda etapa
 [[Zettels/ganaderia-carniceria-carne-seca|ganaderia-carniceria-carne-seca]]
