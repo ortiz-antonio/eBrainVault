@@ -17,7 +17,7 @@ Probar la estrategia de [[Zettels/namepreview-cold-messaging-trojan|namepreview-
 ### DONE
 2026-06-03: Tomar contexto y setup de seccion de pomodoro
 2026-06-03: Encontre solo una red social, lo compolicado aqui es que, no estoy encontrando redes sociales de los vendedores de etsy, pero solo llevo 4 vistos y solo 1 con email y datos de contacto
-2026-06-03: Crear base de datos de 10 joyerias de etsy. Al terminar observe que todos con excepcion de 1 usan instagram, por lo que la publicidad probablemente pueda enfocarse en instagram.
+2026-06-03: Crear base de datos de 10 joyerias de etsy. Al terminar observe que todos usan instagram, por lo que la publicidad probablemente pueda enfocarse en instagram.
 
 ## Connections:
 - [[Zettels/namepreview-jewerly-jtbd-pc-fonts-prospects-etsy|namepreview-jewerly-jtbd-pc-fonts-prospects-etsy]]
