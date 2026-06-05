@@ -12,6 +12,7 @@ https://www.instagram.com/namesjewelry/
 ## glamourjewelryhouse
 **Phone**: [+1 305 792 8309](tel:+1%20305%20216%203441)  
 **Email**: [hello@glamourjewelryhouse.com](mailto:hello@glamourjewelryhouse.com)
+https://www.instagram.com/glamourjewelryhouse
 ## Muwatiuk
 https://www.instagram.com/muwatiuk1/
 ## Lovinka
