@@ -29,7 +29,7 @@ Fue companero mason de mi papa, lo conoce bien y sus fallas.
 
 ## Ayuda indirecta
 - [[Zettels/trauma-paterno-darme-vencido|trauma-paterno-darme-vencido]]
-- [[Zettels/terapia-reaccion-depresion|terapia-reaccion-depresion]] Al forzarme a afrontar las situaciones
+- [[Mocs/trauma-ejecucion-moc|trauma-ejecucion-moc]] Al forzarme a afrontar las situaciones
 
 ## Modo trabajo
 - [[Fleetings/1-solucion-multiples-problemas|1-solucion-multiples-problemas]]
