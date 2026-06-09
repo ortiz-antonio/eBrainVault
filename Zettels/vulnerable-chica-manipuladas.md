@@ -71,6 +71,8 @@ Cuanto todos me consideraban fracasado: A veces la notaba muy atenta viendome, m
 ### Agencia en la disrupción (2026-06-02)
 Esta disrupción la realicé por iniciativa propia. Aunque el entorno se recalibró por esta acción (creando una dinámica entre aliados y gente en contra), adopté el papel necesario para los aliados y seguí el guion momentáneamente, consciente de que esto es parte de un panorama mucho más grande. Es un ejercicio de control y visión estratégica, no de reactividad.
 
+2026-06-06: Declare sobre tomar alguna chica de ahi como esposa, yo no las voy a sacar de ahi, no voy a arreglar lo que otro rompio, necesito conocer y socializar (desde el respeto), por que a veces dices eres muy buena persona pero no nos vamos a aguantar.
+
 ## Resultados
 ### En suspension
 2026-05-18: En suspension hasta que el entorno sea mas favorable, o si veo que ella resiste el hoovering, si me precipito la puedo perjudir en lugar de ayudarla.

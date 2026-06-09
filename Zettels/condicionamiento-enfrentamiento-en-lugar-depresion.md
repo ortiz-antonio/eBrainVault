@@ -15,6 +15,7 @@ AC me forzo a una situacion donde debo estar concentrado con interrupciones de a
 
 Estoy nervioso y temblando. Asi me sentia de ninio, cuando papa me empezaba a gritar, ahora el anclaje es por el ruido. 
 - Justamente dije sobre el ruido, lo tolero, pero no cuando estoy concentrado, es como si alguien te gritara en el oido.
+- 2026-06-06: Acabo de recordar cuando estaba en el kinder una sesion de aplausos para mi, me tape los oidos de inmediato, senti una descarga fria cuando la maestra me grito, Que grosero Antonio! nadie le va a aplaudir ya.
 
 
 
