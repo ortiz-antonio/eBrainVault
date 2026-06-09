@@ -26,6 +26,7 @@ Joyerias que usen / fabriquen letras caladas
 ## Formatos
 - Templates para corte manual
 - Vectores para quienes usan laser o cnc
+- [[Zettels/vector-resize|vector-resize]]
 
 ## Estrategia de negocio
 Enfocarme en el Job [[Mocs/namepreview-jewerly-jtbd-pc-fonts-moc|namepreview-jewerly-jtbd-pc-fonts-moc]]  Ya que son las fuentes comunes que usan los joyeros, que usan pc, Eso me permite capitalizarme y es el Job mas sencillo. Empezar a mapear los [[Mocs/namepreview-jewerly-jtbd-outsourcer-moc|namepreview-jewerly-jtbd-outsourcer-moc]].
