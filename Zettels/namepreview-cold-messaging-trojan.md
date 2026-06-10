@@ -10,7 +10,7 @@ En productos personalizados, enviar a los proveedores haciendome pasar por clien
 
 ## Copy
 Hi, I'm a developer building a tool to automate the design of custom name pendants (you can see the
-  prototype here: https://namepreview.ortiz.studio/)
+  prototype here: https://namepreview.ortiz.studio?name=Sofia&font=4 )
 I’m looking for a few workshops to test the beta. Let me know if you are interested!
 
 ## Questions 

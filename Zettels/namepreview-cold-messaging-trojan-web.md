@@ -10,7 +10,7 @@ tags:
 - Para bajar el vector personalizado, los inputs con las medidas y se envia email. Asi lo proceso manualmente, y probablmente pueda venderlo bajo [[Zettels/modelo-negocio-tech-enabled-faux-bespoke|modelo-negocio-tech-enabled-faux-bespoke]]
 
 ## Web
-https://www.namepreview.app/demo/woodnames?name=Sofia&font=4
+https://namepreview.ortiz.studio?name=Sofia&font=4
 - Input disabled: Emma 
 - Img (Vector): Emma 
 - Font: Milkshake
