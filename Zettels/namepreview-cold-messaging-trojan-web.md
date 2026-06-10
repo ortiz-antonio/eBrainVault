@@ -11,12 +11,17 @@ tags:
 
 ## Web
 https://www.namepreview.app/demo/woodnames?name=Emma?font=Milkshake
-- Nombre: Emma
+- Input disabled: Emma 
+- Img (Vector): Emma 
 - Font: Milkshake
-- Input: Email
-- Input: width:
-- Button: Generate & Email Production Vector
+- Button: Download Production Vector
 
+## Personalization
+Info necesaria para que el usuario copie y pegue en el pedido de etsy.
+- Name
+- Font
+	- Number
+	- Name
 ## Email
 - Generated vector
 - namepreview add
