@@ -22,6 +22,7 @@ Fue companero mason de mi papa, lo conoce bien y sus fallas.
 ## Entendimiento segun sus acciones
 - [[Zettels/ac-refuerzo-sentirme-cansado|ac-refuerzo-sentirme-cansado]]
 - [[Zettels/mantener-foco-tablero|mantener-foco-tablero]]
+- [[Zettels/ac-resultado-concentracion|ac-resultado-concentracion]]
 
 ## Acciones
 - Mandarme de su equipo poco a poco para que los conozca y salude
@@ -30,6 +31,7 @@ Fue companero mason de mi papa, lo conoce bien y sus fallas.
 ## Ayuda indirecta
 - [[Zettels/trauma-paterno-darme-vencido|trauma-paterno-darme-vencido]]
 - [[Mocs/trauma-ejecucion-moc|trauma-ejecucion-moc]] Al forzarme a afrontar las situaciones
+- [[Fleetings/ejecucion-mentalidad-perfecta|ejecucion-mentalidad-perfecta]]
 
 ## Modo trabajo
 - [[Fleetings/1-solucion-multiples-problemas|1-solucion-multiples-problemas]]

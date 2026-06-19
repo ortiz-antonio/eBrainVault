@@ -20,6 +20,7 @@ Por lo tanto, es mejor tener unos pocos clientes de [[Zettels/namepreview-jewerl
 
 ### Estrategias
 - [[Mocs/estrategias-moc|estrategias-moc]]
+- [[Zettels/namepreview-marketing-lecciones-captacion|namepreview-marketing-lecciones-captacion]]
 ## MaSS
 - Crear lista de quienes buscan letras caladas
 	- Ir seleccionando entre quienes trabajen bien de mi sass, para convertirlos en proveedores

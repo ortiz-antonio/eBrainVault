@@ -39,6 +39,10 @@ Cuando se lo devolvi al final (como hice cuando hable con ella), me miro con muc
 
 2026-05-28: La chica puse canciones de Ya lo veía venir de moderatto y  De la noche a la mañana - Elefante, la vi con cara de avergonzada
 
+2026-06-19: Despues de un periodo de estabilidad, la chica empezo a ser muy coqueta conmigo, me mantengo amable, pero al pasearse frente a mi, si puede notar que me atrae fisicamente, puso canciones de shakira como la aunque pareces despistado con ese caminar cansado, ya vas a ver como van sanando poco a poco tus heridas, tu mas que nadie merece ser feliz, mantengo la observacion, seria un error involucrarme
+- Reflexión (Espejo Lógico): La canción me movió fibras emocionales profundas porque validó mis propias heridas y mi proceso de sanación. Reconozco esta vulnerabilidad en mí y entiendo que sentir esto es humano y normal.
+- Conciencia Estratégica: Sé que, de alguna manera, este acercamiento está siendo orquestado por la red manipuladora para usar mi empatía y vulnerabilidad. Actuar en base a esta emoción sería ceder mi agencia, caer en su juego y comprometer la construcción del entorno seguro.
+
 ## Cambio de comportamiento
 [[Zettels/e-chicas-manipulada-modificar-conducta|e-chicas-manipulada-modificar-conducta]]
 - Aun no lo aplico.
