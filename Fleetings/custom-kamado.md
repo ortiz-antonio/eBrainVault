@@ -23,6 +23,8 @@ Tiene la forma de huevo clasica
 - Rejilla superior (Sirve para colgar carne para ahumar)
 
 
+## Alton brown
+![[Attachments/alton-brown-smoker.avif]]
 
 
 ---
