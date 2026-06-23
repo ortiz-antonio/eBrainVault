@@ -42,6 +42,7 @@ Cuando se lo devolvi al final (como hice cuando hable con ella), me miro con muc
 2026-06-19: Despues de un periodo de estabilidad, la chica empezo a ser muy coqueta conmigo, me mantengo amable, pero al pasearse frente a mi, si puede notar que me atrae fisicamente, puso canciones de shakira como la aunque pareces despistado con ese caminar cansado, ya vas a ver como van sanando poco a poco tus heridas, tu mas que nadie merece ser feliz, mantengo la observacion, seria un error involucrarme
 - Reflexión (Espejo Lógico): La canción me movió fibras emocionales profundas porque validó mis propias heridas y mi proceso de sanación. Reconozco esta vulnerabilidad en mí y entiendo que sentir esto es humano y normal.
 - Conciencia Estratégica: Sé que, de alguna manera, este acercamiento está siendo orquestado por la red manipuladora para usar mi empatía y vulnerabilidad. Actuar en base a esta emoción sería ceder mi agencia, caer en su juego y comprometer la construcción del entorno seguro.
+- 2026-06-23: Hace dos dias la vi en un auto con el hombre que estaba intentando acercarse a ella y ella rechazo(no el manipulador original) ambos tensos, me parecio que fue orquestado por el lider de la red, despues de eso en el gym al dia siguientre ella no levantaba la cara, y el lo vi viendose en el espejo, con actitud superior, noto mi mirada y cambio a sumision, hoy (2 dias despues) la chica no levanta la cara, mientras el intentaba hacer como si nada, sin embargo cuanod vio mi mirada y que le voltee la cara, se puso nervioso y cambio de actitud.
 
 ## Cambio de comportamiento
 [[Zettels/e-chicas-manipulada-modificar-conducta|e-chicas-manipulada-modificar-conducta]]
@@ -65,6 +66,7 @@ Mi conclusion es que, lo mas probable es que este en hovering si hubiera vuelto 
 - Si deseo provocar la red manipuladora y hacerlos cometer errores, lo ideal seria seguir con mi [[Zettels/e-chicas-manipulada-modificar-conducta|e-chicas-manipulada-modificar-conducta]], solo cambiar el experimento para hacerlo mas sutil cuando hable con ella.
 2026-05-27: Creo que finalmente cuando ella resistio la manipulacion original, y luego fue captada para ofrecermela a mi, y yo al ser amable pero rechazarla, le produjo el dolor emocional que mostro, fue un simbolo de duelo, mi hipotesis es que al aceptar su solor, entro en la primera parte de su sanacion. Pero aun necesita un entorno seguro.
 2026-05-28: Al poner las canciones de ya lo veia venir, esta recordando la situacion que paso, fue un error mio la hipotesis que estaba en duelo por mi, fue una transferencia, la vi un poco apenada, creo que ya reconoce su situacion.
+
 ## Connections:
 - [[Literature/reprogramacion-claridad-estructural|reprogramacion-claridad-estructural]]
 
@@ -84,6 +86,9 @@ Esta disrupción la realicé por iniciativa propia. Aunque el entorno se recalib
 2026-05-26: Sigue en suspencion, fui amable tras que la red intento enviarmela como dando su permiso, lo que estaban haciendo era buscar mantener control.
 
 2026-05-27: La chica mostro duelo por mi, creo que empieza sanacion
+
+### Pivote de la red
+2026-06-23: Me parece que fue forzada, segun mis observaciones de hoy, pero no se si fue manipulacion forzada o fisica, lo que si queda claro es que no se ve atraccion por el hombre.
 
 ---
 
