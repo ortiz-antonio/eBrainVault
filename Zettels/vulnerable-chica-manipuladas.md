@@ -43,7 +43,8 @@ Cuando se lo devolvi al final (como hice cuando hable con ella), me miro con muc
 - Reflexión (Espejo Lógico): La canción me movió fibras emocionales profundas porque validó mis propias heridas y mi proceso de sanación. Reconozco esta vulnerabilidad en mí y entiendo que sentir esto es humano y normal.
 - Conciencia Estratégica: Sé que, de alguna manera, este acercamiento está siendo orquestado por la red manipuladora para usar mi empatía y vulnerabilidad. Actuar en base a esta emoción sería ceder mi agencia, caer en su juego y comprometer la construcción del entorno seguro.
 - 2026-06-23: Hace dos dias la vi en un auto con el hombre que estaba intentando acercarse a ella y ella rechazo(no el manipulador original) ambos tensos, me parecio que fue orquestado por el lider de la red, despues de eso en el gym al dia siguientre ella no levantaba la cara, y el lo vi viendose en el espejo, con actitud superior, noto mi mirada y cambio a sumision, hoy (2 dias despues) la chica no levanta la cara, mientras el intentaba hacer como si nada, sin embargo cuanod vio mi mirada y que le voltee la cara, se puso nervioso y cambio de actitud.
-
+- 2026-06-24: Hizo contacto visual en el saludo, estaba disociada viendo su cel cuando le pedi una herramienta, se disculpo, yo sonrei con simpatia y le dije, no puedo decir nada por que asi soy yo, aunque no este viendo nada, cuando estuve mas cerca le subio a una cancion, no se el nombre pero decia: Eres el maestro sigo tus pasos, descalza libre y salvaje, el hombre de la red manipuladora no se presento.
+- 2026-06-25: Puso canciones de la red manipuladora hacia mi, haciendome ofertas, la vi con actitud sumisa, puso canciones como, no me culpes por que yo no te prometi nada, yo soy asi y cosas asi, sospecho del manipulador original.
 ## Cambio de comportamiento
 [[Zettels/e-chicas-manipulada-modificar-conducta|e-chicas-manipulada-modificar-conducta]]
 - Aun no lo aplico.
