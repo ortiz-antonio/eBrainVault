@@ -43,5 +43,8 @@ Fue companero mason de mi papa, lo conoce bien y sus fallas.
 ## Analisis
 Estuve reconstruyendome con IA, al parecer AC me esta ayudando a reconfigurar mi entorno y las habilidades que necesito, que no las puedo adquirir con ia o solo.
 
+## Observaciones indirectas
+- 2026-06-25: Te estas poniendo fuerte
+
 
 ---
