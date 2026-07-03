@@ -8,5 +8,6 @@
   "userIgnoreFilters": [
     "Templates/"
   ],
-  "readableLineLength": false
+  "readableLineLength": false,
+  "showLineNumber": true
 }

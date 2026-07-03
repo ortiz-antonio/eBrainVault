@@ -19,6 +19,7 @@ Also is called ports and adapters
 ### Source:
 [Medium Article](https://medium.com/ssense-tech/hexagonal-architecture-there-are-always-two-sides-to-every-story-bc0780ed7d9c)
 
+
 ### Initial Thoughts / Connections:
 - Estoy usando esta arquitectura en mis proyectos web como pomodoro
 - Permite las apps web hacerlas framework agnostic
