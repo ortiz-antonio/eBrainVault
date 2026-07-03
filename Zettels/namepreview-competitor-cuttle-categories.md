@@ -6,7 +6,7 @@ tags:
 ---
 
 # Categorias de cuttle
-Hace algo brillante al crear diferentes productos como categorias, esta segmentando perfecto los diferentes micronichos de mercado, aunque habia pensado en crear diferentes micronichos, la idea de  usar los prodoctos como micronichos no lo habia pensado y es muy buena. Aunque use los jobs to be done para segmentar teoricamente, no habia relacionado el concepto con las categorias que usa cuttle
+Hace algo brillante al crear diferentes productos como categorias, esta segmentando perfecto los diferentes micronichos de mercado, aunque habia pensado en crear diferentes micronichos, la idea de  usar los productos como micronichos no lo habia pensado y es muy buena. Aunque use los jobs to be done para segmentar teoricamente, no habia relacionado el concepto con las categorias que usa cuttle.
 
 ## Categorias con mejor respuesta del publico
 - Wedding names

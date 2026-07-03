@@ -6,10 +6,7 @@ tags:
 ---
 
 # Popularity
-Cuttle es usado por la comunidad, la investigacion sobre los post lo demuestran, la comunidad ayuda con su [[Zettels/namepreview-competitor-cuttle-marketing|namepreview-competitor-cuttle-marketing]] con preguntas especificas o cuando buscan un software para resolver los problemas de generacion de vectores (en laser es mas popular)
-
-Cuttle.xyz ofrece colaboraciones con programas diferentes, no solamente con administradores de grupos laser. Posiblmente programas que no compiten entre si, si no que ambos se benefician mutuamente.
-
+Cuttle es usado por la comunidad.
 
 ## Pregunta costo beneficio sobre el software
 Preguntan sobre si vale la pena comprarlo, aunque es poco publico el comentario con mayor likes (4 actualmente) lo recomendo absolutamente.
@@ -22,9 +19,6 @@ Preguntan sobre que cual es su template mas amado (confirmando que su comunidad 
 Post title: If you're already Cuttle.xyz OBSESSED - what's your most USED template?
 [colaborative](https://www.facebook.com/createwithgwynn/posts/pfbid02jcfzDV4KdG4hYzsRAjUxbzgDttG5azTiSrW7kw56VTdrPCKyDvf5URn3SrDDXwawl?__cft__[0]=AZaB2pkQSgINqtATqujVTT--iT2b0xIMA2SVWi6HPLkRwb2QC-gsG5Xhe0rMNv0QsRd-8IbWQlC4n2nUBCiXwZf3yjeUcPxAbYbrVwam_NOsW7Q8qE_jqDafFjXxA_JSUMsDdeNxTa0MMxni-HR-VfFq-ReRqYN1iYt-55VfZBQRBg&__tn__=%2CO%2CP-R)
 
-Son dos programas diferentes que estan colaborando, estoy enfocado en cuttle.xyz, sin embargo hay otro programa que colabora con cuttle.
-- https://createwithgwynn.myflodesk.com/fundyourfiles
-- Pero les da 30 dias gratis a quienes se registren en ese programa, probablemente es mediante [[#Partners program]]
 
 
 

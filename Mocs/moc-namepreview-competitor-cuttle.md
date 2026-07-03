@@ -7,15 +7,13 @@ tags:
 
 # Namepreview competitor cuttle
 Encontre la web de alguien con una idea similiar de la mia, me gusto la idea, pero [[Zettels/namepreview|namepreview]] se diferencia lo suficiente para no ser un competidor directo, o al menos tiene la diferenciacion suficiente.
+## Analisys
+[[Mocs/namepreview-competitor-cuttle-analysis-moc|namepreview-competitor-cuttle-analysis-moc]]
 ## Funciones principales
 [[Zettels/namepreview-competitor-cuttle-functions|namepreview-competitor-cuttle-functions]]
-### Ideas mias implementadas 
-[[Zettels/project-jewerly-3dprint|project-jewerly-3dprint]]
 ## Caracteristicas
 ### Categorias
 [[Zettels/namepreview-competitor-cuttle-categories|namepreview-competitor-cuttle-categories]] 
-### Categorias faltantes
-[[Zettels/namepreview-competitor-categories-missing|namepreview-competitor-categories-missing]]
 ## Modelo negocio
 MicroSass no hay senal de [[Zettels/modelo-negocio-tech-enabled-faux-bespoke|modelo-negocio-tech-enabled-faux-bespoke]]
 ## Marketing
@@ -27,7 +25,7 @@ Esta hecho con [Vite](https://vite.dev/) Incluido el backend, por lo que es incr
 ## Observaciones
 - [[Zettels/namepreview-competitor-cuttle-observations|namepreview-competitor-cuttle-observations]]
 ## Todo
-- Estoy mezclando dos temas, el analisis de cuttle con mis opiniones para namepreview por lo tanto: Vamos a extraer de las ideas atomicas mis opiniones y conclusiones para dejar los datos crudos. Y Creo una nota separada para el analisis en namepreview.
+- Crear formato de experimento, en otro zettel, donde haga mencion a las notas originales, para no mezclar los temas
 - Extraer los enlaces de las paginas, para mantener las notas limpias
 - Reestructurar:
 	- Hacer una revision de las notas atomicas y hacer una reestructura en ideas mas pequenas
