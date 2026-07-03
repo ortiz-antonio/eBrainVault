@@ -24,12 +24,6 @@ MicroSass no hay senal de [[Zettels/modelo-negocio-tech-enabled-faux-bespoke|mod
 Esta hecho con [Vite](https://vite.dev/) Incluido el backend, por lo que es increiblemente rapida la generacion, a diferencia de namepreview (Siendo este mas seguro con las fuentes)
 ## Observaciones
 - [[Zettels/namepreview-competitor-cuttle-observations|namepreview-competitor-cuttle-observations]]
-## Todo
-- Crear formato de experimento, en otro zettel, donde haga mencion a las notas originales, para no mezclar los temas
-- Extraer los enlaces de las paginas, para mantener las notas limpias
-- Reestructurar:
-	- Hacer una revision de las notas atomicas y hacer una reestructura en ideas mas pequenas
-	- Enlazar colaboracion social con marketing y templates
 
 ---
 ## Connections:
