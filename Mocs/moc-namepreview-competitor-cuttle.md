@@ -34,11 +34,12 @@ Esta hecho con [Vite](https://vite.dev/) Incluido el backend, por lo que es incr
 
 ## Observaciones
 - [[Zettels/namepreview-competitor-cuttle-observations|namepreview-competitor-cuttle-observations]]
-
-
 ## Todo
-- Vamos a extraer de las ideas atomicas mis opiniones y conclusiones para dejar los datos crudos
+- Estoy mezclando dos temas, el analisis de cuttle con mis opiniones para namepreview por lo tanto: Vamos a extraer de las ideas atomicas mis opiniones y conclusiones para dejar los datos crudos. Y Creo una nota separada para el analisis en namepreview.
 - Extraer los enlaces de las paginas, para mantener las notas limpias
+- Reestructurar:
+	- Hacer una revision de las notas atomicas y hacer una reestructura en ideas mas pequenas
+	- Enlazar colaboracion social con marketing y templates
 
 ---
 
