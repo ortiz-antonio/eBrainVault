@@ -35,7 +35,5 @@ Making custom family reunion shirts, bridal party tees, or birthday T-shirts?
   To test the cutting quality, I’ve prepared a Free Pack of 20 Cursive Name SVGs (with tail/base connectors) perfect for custom apparel.
 
 
-
-
 ---
 
