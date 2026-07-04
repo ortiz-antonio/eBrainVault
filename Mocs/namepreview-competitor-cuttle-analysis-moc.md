@@ -17,6 +17,7 @@ Sin embargo es irrelevante para mi modelo de negocio, la idea de crear un progra
 
 ## Promociona
 [[Zettels/namepreview-competitor-cuttle-marketing#Laser groups|namepreview-competitor-cuttle-marketing]]
+### Cricut
 El autor se pregunta por que no recibio mucha respuesta en reddit channel cricut y mi hipotesis es por que uso la misma imagen de lasercutting
 ## Keywords
 Esta usando keywords de acuerdo a laser groups, todas relativas a laser, por que esta compitiendo en el mercado de laser
@@ -37,10 +38,6 @@ Cuttle.xyz ofrece colaboraciones con programas diferentes, no solamente con admi
 Son dos programas diferentes que estan colaborando, estoy enfocado en cuttle.xyz, sin embargo hay otro programa que colabora con cuttle.
 - https://createwithgwynn.myflodesk.com/fundyourfiles
 - Pero les da 30 dias gratis a quienes se registren en ese programa, probablemente es mediante [[#Partners program]]
-
-
-
-
 
 
 ---

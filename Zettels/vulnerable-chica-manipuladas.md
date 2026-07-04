@@ -86,7 +86,7 @@ Esta disrupción la realicé por iniciativa propia. Aunque el entorno se recalib
 
 2026-05-26: Sigue en suspencion, fui amable tras que la red intento enviarmela como dando su permiso, lo que estaban haciendo era buscar mantener control.
 
-2026-05-27: La chica mostro duelo por mi, creo que empieza sanacion
+2026-05-27: La chica mostro duelo por mi (error, fue por que empezo su sanacion como estaba en los textos anteriores), creo que empieza sanacion
 
 ### Pivote de la red
 2026-06-23: Me parece que fue forzada, segun mis observaciones de hoy, pero no se si fue manipulacion forzada o fisica, lo que si queda claro es que no se ve atraccion por el hombre.
