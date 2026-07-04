@@ -23,5 +23,19 @@ Usare  [[Zettels/microsass-validation-techique-wizard-of-oz|microsass-validation
 
 Debe tener una imagen de camisas con el estilo de nombre (popular en este momento o tematica actual)
 
+### Option 1: The "Bulk T-shirt Orders Made Easy" (Problem & Solution)
+  Stop welding names for hours! Custom Name SVGs for T-Shirts—generated instantly 👕⚡
+  
+  Body:
+Making custom family reunion shirts, bridal party tees, or birthday T-shirts?
+
+ Typing names, adjusting fonts, and manually welding them in Design Space so they don't cut in separate pieces is a major bottleneck—especially when you have an order of 10+ shirts.
+  
+  I'm building Namepreview, a tool designed to instantly generate perfectly connected, easy-to-weed Custom Name T-shirt SVGs in seconds.
+  To test the cutting quality, I’ve prepared a Free Pack of 20 Cursive Name SVGs (with tail/base connectors) perfect for custom apparel.
+
+
+
 
 ---
+
