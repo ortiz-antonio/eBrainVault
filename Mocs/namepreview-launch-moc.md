@@ -47,9 +47,9 @@ Making custom family reunion shirts, bridal party tees, or birthday T-shirts?.
 
 I'm building a new feature for NamePreview (generating SVG files instantly) for different shirt styles. Try the demo here, and sign up if you want to be a beta tester.
 #### Analisis
-- Tengo definido la imagen y el copy.
-- Paso a subirlo a la web?
-	- El input debe tener los nombres a generar (No editables pero dara a entender que pueden editarlos ahi)
+- Son dos, la landing y el demo app, el copy que puse fue para la landing no para el demo, ocupo crear el del landing
+- demo app
+	- El input debe tener los nombres a generar (No editables pero dar a entender que pueden editarlos ahi)
 	- Se genera el pack de los diferentes nombres  (para cada camisa)
 
 
