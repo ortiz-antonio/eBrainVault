@@ -19,20 +19,35 @@ Es de los productos que mas se hacen con cricut y en etsy venden vectores para c
 
 
 #### Post para probar
-Usare  [[Zettels/microsass-validation-techique-wizard-of-oz|microsass-validation-techique-wizard-of-oz]]
+Usare  [[Zettels/microsass-validation-techique-mixed-wizard-of-oz|microsass-validation-techique-mixed-wizard-of-oz]]
 
-Debe tener una imagen de camisas con el estilo de nombre (popular en este momento o tematica actual)
+- Debe tener una imagen de camisas con el estilo de nombre (popular en este momento o tematica actual)
+- Invitar a probar la herramienta namepreview que ya funciona
+- Mostrarles un demo con la herramienta adaptada para camisas
+- idea de texto: la [[#Option 1 The "Bulk T-shirt Orders Made Easy" (Problem & Solution)]] me parece bien, solo ajustar la cta a algo mas especifico como, namepreview ya funciona de esta manera, mira el demo y dime si se adapta a tu flujo de trabajo.
+
+### Images
+![[Attachments/np-launch-criccut-example-sofia.svg]]
+
+![[Attachments/np-launch-criccut-example-kenzie.svg]]
+
+
+![[Attachments/np-launch-criccut-example-koryn.svg]]
 
 ### Option 1: The "Bulk T-shirt Orders Made Easy" (Problem & Solution)
   Stop welding names for hours! Custom Name SVGs for T-Shirts—generated instantly 👕⚡
   
   Body:
-Making custom family reunion shirts, bridal party tees, or birthday T-shirts?
+Making custom family reunion shirts, bridal party tees, or birthday T-shirts?.
 
  Typing names, adjusting fonts, and manually welding them in Design Space so they don't cut in separate pieces is a major bottleneck—especially when you have an order of 10+ shirts.
-  
-  I'm building Namepreview, a tool designed to instantly generate perfectly connected, easy-to-weed Custom Name T-shirt SVGs in seconds.
-  To test the cutting quality, I’ve prepared a Free Pack of 20 Cursive Name SVGs (with tail/base connectors) perfect for custom apparel.
+
+I'm building a new feature for NamePreview (generating SVG files instantly) for different shirt styles. Try the demo here, and sign up if you want to be a beta tester.
+#### Analisis
+- Tengo definido la imagen y el copy.
+- Paso a subirlo a la web?
+	- El input debe tener los nombres a generar (No editables pero dara a entender que pueden editarlos ahi)
+	- Se genera el pack de los diferentes nombres  (para cada camisa)
 
 
 ---

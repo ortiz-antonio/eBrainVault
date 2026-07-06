@@ -31,6 +31,11 @@ Segun la conversacion estas son mis observaciones:
 Hable con carnicero vende carne local [[Zettels/ganaderia-carniceria-entrevista-carnicero-carne-local|ganaderia-carniceria-entrevista-carnicero-carne-local]]
 Segun la conversacion:
 - Batalla para conseguir becerros por que los ganaderos prefieren vender ganado de engorda, por que lo pagan mejor
+2026-07-05:
+- Una parte del ganado se vende en Monterrey y otra en estados unidos, siendo estados unidos quien lo paga en efectivo y da mejor precio.
+	- Por eso un tiempo se quedaron sin poder comprar becerros, por que su ganadero le convino mas vender fuera.
+- Los compradores de ganado compran a mejor precio el becerro pequeno, al carnicero no le conviene pagar ese precio.
+- La carne local es entre 10% - 20% mas cara que la carne de Monterrey
 
 ###  Propuesta
 [[Zettels/e-ganaderia-carniceria-propuesta-ganadera|e-ganaderia-carniceria-propuesta-ganadera]]
