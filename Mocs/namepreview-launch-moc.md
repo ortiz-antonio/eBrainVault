@@ -27,11 +27,14 @@ Usare  [[Zettels/microsass-validation-techique-mixed-wizard-of-oz|microsass-vali
 - idea de texto: la [[#Option 1 The "Bulk T-shirt Orders Made Easy" (Problem & Solution)]] me parece bien, solo ajustar la cta a algo mas especifico como, namepreview ya funciona de esta manera, mira el demo y dime si se adapta a tu flujo de trabajo.
 
 ### Images
+#### Web 
 ![[Attachments/np-launch-criccut-example-sofia.svg]]
-
 ![[Attachments/np-launch-criccut-example-kenzie.svg]]
+![[Attachments/np-launch-criccut-example-koryn.svg]]
 
-
+#### Cut files
+![[Attachments/np-launch-criccut-example-sofia-cut.svg]]
+![[Attachments/np-launch-criccut-example-kenzie.svg]]
 ![[Attachments/np-launch-criccut-example-koryn.svg]]
 
 ### Option 1: The "Bulk T-shirt Orders Made Easy" (Problem & Solution)
