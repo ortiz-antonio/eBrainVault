@@ -34,8 +34,8 @@ Usare  [[Zettels/microsass-validation-techique-mixed-wizard-of-oz|microsass-vali
 
 #### Cut files
 ![[Attachments/np-launch-criccut-example-sofia-cut.svg]]
-![[Attachments/np-launch-criccut-example-kenzie.svg]]
-![[Attachments/np-launch-criccut-example-koryn.svg]]
+![[Attachments/np-launch-criccut-example-kenzie-cut.svg]]
+![[Attachments/np-launch-criccut-example-koryn-cut.svg]]
 
 ### Option 1: The "Bulk T-shirt Orders Made Easy" (Problem & Solution)
   Stop welding names for hours! Custom Name SVGs for T-Shirts—generated instantly 👕⚡
