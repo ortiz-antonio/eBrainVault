@@ -50,10 +50,11 @@ I'm building a new feature for NamePreview (generating SVG files instantly) for 
 ### Option 2
 EL cliente ve el previo real y lo aprueba antes de produccion, para ti te genera el archivo listo para cricut, apoyado con la imagenes del previo y el de cricut. Me suena bastante solido y enfocado.
 
+### Option 3
+Crear una sola landing, que muestre la idea sin distraer ni confundir al prospecto con la funcionalidad que no necesita, donde se explique que es y como funciona, en un demo utilizable, aprovechando la tecnica [[Zettels/microsass-validation-techique-mixed-wizard-of-oz|microsass-validation-techique-mixed-wizard-of-oz]]
+
 #### Status
 En estas tareas es el unico caso donde prefiero IA, asi que desglosare mejor mi idea.
-
-
 #### Analisis
 - Son dos, la landing y el demo app, el copy que puse fue para la landing no para el demo, ocupo crear el del landing
 - demo app
