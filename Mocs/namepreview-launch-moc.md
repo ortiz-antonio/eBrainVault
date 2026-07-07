@@ -46,6 +46,14 @@ Making custom family reunion shirts, bridal party tees, or birthday T-shirts?.
  Typing names, adjusting fonts, and manually welding them in Design Space so they don't cut in separate pieces is a major bottleneck—especially when you have an order of 10+ shirts.
 
 I'm building a new feature for NamePreview (generating SVG files instantly) for different shirt styles. Try the demo here, and sign up if you want to be a beta tester.
+
+### Option 2
+EL cliente ve el previo real y lo aprueba antes de produccion, para ti te genera el archivo listo para cricut, apoyado con la imagenes del previo y el de cricut. Me suena bastante solido y enfocado.
+
+#### Status
+En estas tareas es el unico caso donde prefiero IA, asi que desglosare mejor mi idea.
+
+
 #### Analisis
 - Son dos, la landing y el demo app, el copy que puse fue para la landing no para el demo, ocupo crear el del landing
 - demo app
