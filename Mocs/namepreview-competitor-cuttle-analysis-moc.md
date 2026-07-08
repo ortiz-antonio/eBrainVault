@@ -1,11 +1,11 @@
 ---
 id: 20260703134828
-tags:
+tags: []
 ---
 
 ---
 
-# Cuttle Analysis: 
+# Cuttle Analysis:
 
 ## Marketing
 [[Zettels/namepreview-competitor-cuttle-marketing#namepreview competitor cuttle marketing|namepreview-competitor-cuttle-marketing]]
@@ -51,6 +51,5 @@ Cuttle.xyz ofrece colaboraciones con programas diferentes, no solamente con admi
 Son dos programas diferentes que estan colaborando, estoy enfocado en cuttle.xyz, sin embargo hay otro programa que colabora con cuttle.
 - https://createwithgwynn.myflodesk.com/fundyourfiles
 - Pero les da 30 dias gratis a quienes se registren en ese programa, probablemente es mediante [[#Partners program]]
-
 
 ---

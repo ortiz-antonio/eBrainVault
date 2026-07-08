@@ -288,7 +288,9 @@
   "linterLocale": "system-default",
   "logLevel": "ERROR",
   "lintCommands": [],
-  "customRegexes": [],
+  "customRegexReplacements": [
+  ],
+
   "commonStyles": {
     "aliasArrayStyle": "single-line",
     "tagArrayStyle": "single-line",
