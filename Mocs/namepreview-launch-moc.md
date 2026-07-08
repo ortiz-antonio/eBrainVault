@@ -59,8 +59,18 @@ Crear una sola landing, que muestre la idea sin distraer ni confundir al prospec
 - Link a proyecto de namepreview para ver la funcionalidad actual completa
 #### Copy 
 Tomar como la base de la option 1, pero agregarle la funcionalidad, de preview de los nombres y descarga de vectores.
-#### Status
-En estas tareas es el unico caso donde prefiero IA, asi que desglosare mejor mi idea.
+
+
+## Post reddit
+### Image
+### Copy
+
+## Todo
+Para el copy esperare a manana a tener IA Accesible, el copy no es mi fuerte
+- Post reddit
+- Fix: Better copy for landing [[#Copy]]
+- Fix: Copy namepreview demo. La idea es hacerles saber que el demo actual es una caracteristica de namepreview, y se complementa, el demo genera vectores, namepreview permite seleccionar los estilos.
+
 
 ---
 
