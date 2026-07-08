@@ -3,5 +3,6 @@
   "obsidian-style-settings",
   "mermaid-fullscreen",
   "mermaid-tools",
-  "mermaid-popup"
+  "mermaid-popup",
+  "obsidian-linter"
 ]
