@@ -37,6 +37,9 @@ Usare  [[Zettels/microsass-validation-techique-mixed-wizard-of-oz|microsass-vali
 ![[Attachments/np-launch-criccut-example-kenzie-cut.svg]]
 ![[Attachments/np-launch-criccut-example-koryn-cut.svg]]
 
+## Web
+Hasta ahora me convence mas la option 3
+
 ### Option 1: The "Bulk T-shirt Orders Made Easy" (Problem & Solution)
   Stop welding names for hours! Custom Name SVGs for T-Shirts—generated instantly 👕⚡
   
@@ -50,10 +53,12 @@ I'm building a new feature for NamePreview (generating SVG files instantly) for 
 EL cliente ve el previo real y lo aprueba antes de produccion, para ti te genera el archivo listo para cricut, apoyado con la imagenes del previo y el de cricut. Me suena bastante solido y enfocado.
 ### Option 3
 Crear una sola landing, que muestre la idea sin distraer ni confundir al prospecto con la funcionalidad que no necesita, donde se explique que es y como funciona, en un demo utilizable, aprovechando la tecnica [[Zettels/microsass-validation-techique-mixed-wizard-of-oz|microsass-validation-techique-mixed-wizard-of-oz]]
-
+- Copy Corto
 - El input debe tener los nombres a generar (No editables pero dar a entender que pueden editarlos ahi)
 - Se genera el pack de los diferentes nombres  (para cada camisa)
-
+- Link a proyecto de namepreview para ver la funcionalidad actual completa
+#### Copy 
+Tomar como la base de la option 1, pero agregarle la funcionalidad, de preview de los nombres y descarga de vectores.
 #### Status
 En estas tareas es el unico caso donde prefiero IA, asi que desglosare mejor mi idea.
 
