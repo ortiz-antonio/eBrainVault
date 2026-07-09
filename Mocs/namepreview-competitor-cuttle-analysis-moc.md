@@ -7,11 +7,18 @@ tags: []
 
 # Cuttle Analysis:
 
+---
+
 ## Marketing
 [[Zettels/namepreview-competitor-cuttle-marketing#namepreview competitor cuttle marketing|namepreview-competitor-cuttle-marketing]]
 
+---
+
 ### Hipotesis:
 Usaron un programa de referidos, pero no encuentro evidencia a si esta activo actualmente
+
+---
+
 ### Conclusion:
 Sin embargo es irrelevante para mi modelo de negocio, la idea de crear un programa de referidos e invitar a los administradores de los grupos es buena idea.
 
@@ -19,6 +26,8 @@ Sin embargo es irrelevante para mi modelo de negocio, la idea de crear un progra
 
 ## Promociona
 [[Zettels/namepreview-competitor-cuttle-marketing#Laser groups|namepreview-competitor-cuttle-marketing]]
+
+---
 
 ### Cricut
 El autor se pregunta por que no recibio mucha respuesta en reddit channel cricut y mi hipotesis es por que uso la misma imagen de lasercutting
@@ -33,6 +42,9 @@ Esta usando keywords de acuerdo a laser groups, todas relativas a laser, por que
 ## Caracteristicas
 [[Zettels/namepreview-competitor-cuttle-categories|namepreview-competitor-cuttle-categories]]
 Ideas mias implementadas: [[Zettels/project-jewerly-3dprint|project-jewerly-3dprint]]
+
+---
+
 ### Categorias
 Categorias que pense para namepreview y no implemento:
 [[Zettels/namepreview-competitor-categories-missing|namepreview-competitor-categories-missing]]
