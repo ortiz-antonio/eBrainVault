@@ -26,7 +26,6 @@ Es de los productos que mas se hacen con cricut y en etsy venden vectores para c
 
 #### Post Para Probar
 Usare  [[Zettels/microsass-validation-techique-mixed-wizard-of-oz|microsass-validation-techique-mixed-wizard-of-oz]]
-
 - Debe tener una imagen de camisas con el estilo de nombre (popular en este momento o tematica actual)
 - Invitar a probar la herramienta namepreview que ya funciona
 - Mostrarles un demo con la herramienta adaptada para camisas
@@ -61,9 +60,8 @@ Hasta ahora me convence mas la option 3
   
   Body:
 Making custom family reunion shirts, bridal party tees, or birthday T-shirts?.
-
- Typing names, adjusting fonts, and manually welding them in Design Space so they don't cut in separate pieces is a major bottleneck—especially when you have an order of 10+ shirts.
-
+ Typing names, adjusting fonts, and manually welding them in Design Space so they don't cut in separate pieces is a major bottleneck—e
+ specially when you have an order of 10+ shirts.
 I'm building a new feature for NamePreview (generating SVG files instantly) for different shirt styles. Try the demo here, and sign up if you want to be a beta tester.
 
 ---
