@@ -1,6 +1,6 @@
 ---
 id: 20250721144803
-tags: obsidian hotkeys
+tags:
 ---
 
 ---
