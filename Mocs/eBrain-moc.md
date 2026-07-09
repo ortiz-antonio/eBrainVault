@@ -49,7 +49,7 @@ Para usar la IA de manera rapida uso gemini-cli y lo lanzo sobre kitty con [[Moc
 ## Mi Busqueda De Reconocimiento
 [[Archive/Museum/fantasia-locura-no-entendimiento|fantasia-locura-no-entendimiento]]
 ## Exposicion
-[[Mocs/exposion-moc|exposion-moc]]
+[[Mocs/exposition-moc|exposition-moc]]
 
 ---
 
