@@ -35,6 +35,12 @@ Este es un pivote estrategico del proyecto de carniceria local, ya se intento qu
 
 ---
 
+## Fricciones
+[[Zettels/project-moo-frictions|project-moo-frictions]]
+
+
+---
+
 ## Segunda Etapa
 - [[Literature/ganaderia-carniceria-conversacion-leche|ganaderia-carniceria-conversacion-leche]]
 	- Evaluar otros productos secundarios ademas de la carne seca como quesos y dulces
@@ -42,7 +48,3 @@ Este es un pivote estrategico del proyecto de carniceria local, ya se intento qu
 
 
 ---
-
-## Fricciones
-[[Zettels/project-moo-frictions|project-moo-frictions]]
-
