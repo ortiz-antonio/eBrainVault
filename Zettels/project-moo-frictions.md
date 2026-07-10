@@ -20,4 +20,5 @@ El [[Zettels/project-moo-experiments-feedback#Fedback Carnicero Vende Carne Loca
 ---
 
 ## Questions For Further Exploration:
-- 
+- Como solucionan ellos la friccion? segun el feedback del  [[Zettels/project-moo-experiments-feedback#Fedback Carnicero Vende Carne Local|carnicero que vende carne local]] se han quedado sin poder comprar becerros, pero ellos mismos han solucionado su problema, manteniendo su calidad excelente al negarse a usar otro modelo.
+- En que situaciones los ganaderos venden becerros localmente? y bajo que condiciones?
