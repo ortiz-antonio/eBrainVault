@@ -21,7 +21,7 @@ Hable con el carnicero local, sus observaciones fueron:
 ---
 
 ## Connections:
-- [[Mocs/ganaderia-carniceria-moc|ganaderia-carniceria-moc]]
+- [[Mocs/project-moo-observations-moc|project-moo-observations-moc]]
 
 ---
 

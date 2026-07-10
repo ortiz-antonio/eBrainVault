@@ -23,7 +23,7 @@ tags:
 
 ## Perfil
 Que perfil debo proyectar en la comunidad? por ahora mostrare mi trabajo en:
-[ortiz.studio](https://ortiz.studio) y [[Mocs/ganaderia-carniceria-moc|ganaderia-carniceria-moc]]
+[ortiz.studio](https://ortiz.studio) y [[Mocs/project-moo-observations-moc|project-moo-observations-moc]]
 
 ## Ideas
 - [[Fleetings/i-cocina-comunitaria|i-cocina-comunitaria]]
@@ -48,6 +48,6 @@ Que perfil debo proyectar en la comunidad? por ahora mostrare mi trabajo en:
 - Esta haciendo pequenas donaciones, en las redes le agradecen
 
 ## Riesgos propaganda
-Al parecer el unico riesgo es que tomen mis iniciativas y las hagan pasar como propias(El adversario politico si tiene esa costumbre de imitar), mi estrategia debe ser entonces ser un distribuidor en [[Mocs/ganaderia-carniceria-moc|ganaderia-carniceria-moc]] pero evitando dar los detalles mas adelante, mostrarles que como creo aplicaciones web, tambien lo aterrizo en proyectos locales.
+Al parecer el unico riesgo es que tomen mis iniciativas y las hagan pasar como propias(El adversario politico si tiene esa costumbre de imitar), mi estrategia debe ser entonces ser un distribuidor en [[Mocs/project-moo-observations-moc|project-moo-observations-moc]] pero evitando dar los detalles mas adelante, mostrarles que como creo aplicaciones web, tambien lo aterrizo en proyectos locales.
 
 ---

@@ -22,7 +22,7 @@ Trabajar con negocios locales que ya exportan y ponerles una plataforma sencilla
 
 
 ## Carne
-[[Mocs/ganaderia-carniceria-moc|ganaderia-carniceria-moc]]
+[[Mocs/project-moo-observations-moc|project-moo-observations-moc]]
 
 ## Piedra
 [[Zettels/piedra-lajeada|piedra-lajeada]]
