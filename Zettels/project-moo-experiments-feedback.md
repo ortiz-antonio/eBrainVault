@@ -2,7 +2,7 @@
 id: 20260710090758
 tags: 
 ---
-
+	
 ---
 
 # Project Moo Feedback Segun Experimentos
@@ -41,6 +41,9 @@ Segun la conversacion:
 2026-07-05:
 - [[Zettels/project-moo-frictions|project-moo-frictions]]
 
+
+## Conversacion
+[[Literature/ganaderia-carniceria-conversacion-leche-carne|ganaderia-carniceria-conversacion-leche-carne]]
 
 ---
 

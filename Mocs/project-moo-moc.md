@@ -42,7 +42,7 @@ Este es un pivote estrategico del proyecto de carniceria local, ya se intento qu
 ---
 
 ## Segunda Etapa
-- [[Literature/ganaderia-carniceria-conversacion-leche|ganaderia-carniceria-conversacion-leche]]
+- [[Literature/ganaderia-carniceria-conversacion-leche-carne|ganaderia-carniceria-conversacion-leche-carne]]
 	- Evaluar otros productos secundarios ademas de la carne seca como quesos y dulces
 [[Zettels/ganaderia-carniceria-carne-seca|ganaderia-carniceria-carne-seca]]
 
