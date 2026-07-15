@@ -5,19 +5,29 @@ tags:
 
 ---
 
-# Vulnerable chica manipuladas
+# Vulnerable Chica Manipuladas
 Chicas que fueron manipuladas y tienen un trauma sin resolver.
+
+
+--- 
 
 La chica muestra musica de vulnerabilidad cuando ve a otra chica que estuvo en su situacion. Mostrando su dolor y recae en viejos patrones como felices los 4, despues de que la chica se fue cambio completamente su estado de animo.
 
+---
+
 ## Experiments
-### Cambio de musica
+---
+
+### Cambio De Musica
 [[Zettels/e-chicas-manipulada-musica|e-chicas-manipulada-musica]]
 2026-05-12: La chica mostro canciones mas de vulnerabilidad y de dolor, no note competencia
 
 2026-05-13: Canciones por hombres no compito, de dolor y mi cama suena y suena, mientras hubo un intento de distraerme por otra chica(La que disparo su trauma por la situacion), y un hombre se acerco a la chica para socializar, ambos amigos del manipulador.
 
+--- 
 2026-05-14: Puso canciones de: Mi niña corazónes rotos, como hacerte entender que el no te merece, mientras su mama la visito y la abrazo, se veia triste pero a la vez feliz cuando le pregunte despues si era su cumple, mientras el hombre de la red de manipulador, estaba frustrado y viendo como tomarla.
+
+--- 
 
 2026-05-18: No me respondio el saludo cuando llegue, puso canciones de:
 - Si te vas, yo también me voy, si me das, yo también te doy. Con el te duele el corazón conmigo los pies
@@ -29,25 +39,42 @@ La chica muestra musica de vulnerabilidad cuando ve a otra chica que estuvo en s
 Cuando le pedi un agarre fue actitud neutra, con mucho respeto.
 Cuando se lo devolvi al final (como hice cuando hable con ella), me miro con mucha atencion,  deseo.
 
+---
+
 2026-05-21: Saludo normal, ignoro al hombre que intenta estar con ella y la red manipuladora esta empujandola con el, parece que estan esperando que yo la ignore o trate mal para que el se acomode, marcaron territorio haciandola que se levantara con el telefono en la mano, para hacerme saber que esta con alguien, puso canciones de: Canciones tranquilas, Sia im stoppable
 
-2026-05-25: Canciones de esperando tus mensajes, despues reaccino a yo soy la que manda.
+--- 
 
+2026-05-25: Canciones de esperando tus mensajes, despues reaccino a yo soy la que manda.
 2026-05-26: La red manipuladora uso una captacion indirecta, usando la chica pero para enviarmela a mi, como sienod ellos quienes dan el permiso, fui amable con la chica, pero ignore su coqueteo.
 
-2026-05-27: La chica mostro canciones de duelo, como la de queria ser la madre de tus hijos, la vi dolida, sospecho que el duelo es algo bueno y es la primera parte de sanar.
+--- 
 
+2026-05-27: La chica mostro canciones de duelo, como la de queria ser la madre de tus hijos, la vi dolida, sospecho que el duelo es algo bueno y es la primera parte de sanar.
 2026-05-28: La chica puse canciones de Ya lo veía venir de moderatto y  De la noche a la mañana - Elefante, la vi con cara de avergonzada
 
+--- 
+
 2026-06-19: Despues de un periodo de estabilidad, la chica empezo a ser muy coqueta conmigo, me mantengo amable, pero al pasearse frente a mi, si puede notar que me atrae fisicamente, puso canciones de shakira como la aunque pareces despistado con ese caminar cansado, ya vas a ver como van sanando poco a poco tus heridas, tu mas que nadie merece ser feliz, mantengo la observacion, seria un error involucrarme
+
+---
+
 - Reflexión (Espejo Lógico): La canción me movió fibras emocionales profundas porque validó mis propias heridas y mi proceso de sanación. Reconozco esta vulnerabilidad en mí y entiendo que sentir esto es humano y normal.
-- Conciencia Estratégica: Sé que, de alguna manera, este acercamiento está siendo orquestado por la red manipuladora para usar mi empatía y vulnerabilidad. Actuar en base a esta emoción sería ceder mi agencia, caer en su juego y comprometer la construcción del entorno seguro.
+- Conciencia Estratégica: Sé que, de alguna manera, este acercamiento está siendo orquestado por la red manipuladora para usar mi empatía y vulnerabilidad. Actuar en base a esta emoción sería ceder mi agencia, caer en su juego y comprometer la construcción del entorno seguro.-
+--- 
+
 - 2026-06-23: Hace dos dias la vi en un auto con el hombre que estaba intentando acercarse a ella y ella rechazo(no el manipulador original) ambos tensos, me parecio que fue orquestado por el lider de la red, despues de eso en el gym al dia siguientre ella no levantaba la cara, y el lo vi viendose en el espejo, con actitud superior, noto mi mirada y cambio a sumision, hoy (2 dias despues) la chica no levanta la cara, mientras el intentaba hacer como si nada, sin embargo cuanod vio mi mirada y que le voltee la cara, se puso nervioso y cambio de actitud.
 - 2026-06-24: Hizo contacto visual en el saludo, estaba disociada viendo su cel cuando le pedi una herramienta, se disculpo, yo sonrei con simpatia y le dije, no puedo decir nada por que asi soy yo, aunque no este viendo nada, cuando estuve mas cerca le subio a una cancion, no se el nombre pero decia: Eres el maestro sigo tus pasos, descalza libre y salvaje, el hombre de la red manipuladora no se presento.
+--- 
+
 - 2026-06-25: Puso canciones de la red manipuladora hacia mi, haciendome ofertas, la vi con actitud sumisa, puso canciones como, no me culpes por que yo no te prometi nada, yo soy asi y cosas asi, sospecho del manipulador original.
-## Cambio de comportamiento
+---
+
+## Cambio De Comportamiento
 [[Zettels/e-chicas-manipulada-modificar-conducta|e-chicas-manipulada-modificar-conducta]]
 - Aun no lo aplico.
+
+---
 
 ### Recuerda
 Parte pendiente y ultima de mi disrupcion
@@ -55,43 +82,71 @@ Recuerda quien eras antes y reconoce que ambas actitudes son parte de ti, pero b
 
 ---
 
-### Hipotesis de [[#Cambio de musica]]
+### Hipotesis De [[#Cambio de musica]]
 2026-05-13: Segun mis observaciones, produjo un cambio emocional donde esta confrontando su dolor, su manera de afrontarlo fue canalizando el dolor en una conducta sexual. Esto parece ser detectado por la red manipuladora que espera vulnerabilidad.
 Mi experimento dos: debe ser sobre darte cuenta de repetir los mismos errores y que harias con lo que sabes ahora? si ya tienes una manera de canalizar el dolor, usala, pero de manera que no sea destructiva y con quien no te danie, insinuando que con su pareja.
 
+--- 
+
 2026-05-18: Algo paso, por que rompio su saludo inicial, durante los 4 dias del fin de semana:
 Mi conclusion es que, lo mas probable es que este en hovering si hubiera vuelto al sexo, no hubiera visto la mirada de deseo al final:
+
+--- 
+
 - se necesita un entorno mas seguro, mientras la red manipuladora las captara de nuevo, como ya tienen instalado el trauma, no las dejaran recuperarse.
 - Lo interesante es que mi hackeo, le produjo un cambio, que la red manipuladora tuvo que contrarrestar usando el manipulador original.
 - Lo mas probable es que en un entorno mas seguro, mi hackeo funcione.
+
+---
+
 - Si deseo provocar la red manipuladora y hacerlos cometer errores, lo ideal seria seguir con mi [[Zettels/e-chicas-manipulada-modificar-conducta|e-chicas-manipulada-modificar-conducta]], solo cambiar el experimento para hacerlo mas sutil cuando hable con ella.
 2026-05-27: Creo que finalmente cuando ella resistio la manipulacion original, y luego fue captada para ofrecermela a mi, y yo al ser amable pero rechazarla, le produjo el dolor emocional que mostro, fue un simbolo de duelo, mi hipotesis es que al aceptar su solor, entro en la primera parte de su sanacion. Pero aun necesita un entorno seguro.
+
+---
+
 2026-05-28: Al poner las canciones de ya lo veia venir, esta recordando la situacion que paso, fue un error mio la hipotesis que estaba en duelo por mi, fue una transferencia, la vi un poco apenada, creo que ya reconoce su situacion.
+
+---
 
 ## Connections:
 - [[Literature/reprogramacion-claridad-estructural|reprogramacion-claridad-estructural]]
 
-## Observaciones personal: Con la chica original
+---
+
+## Observaciones Personal: Con La Chica Original
 La chica con lo que vi que estaba pasando:
 Cuanto todos me consideraban fracasado: A veces la notaba muy atenta viendome, mientras hacia algo, que me habia tomado anios dominar, si la sacaba de esa situacion, condenaria a las demas, pero ahora construire un entorno seguro, para que ella se construya a si misma, junto con el resto de chicas.
 
-### Agencia en la disrupción (2026-06-02)
+---
+
+### Agencia En La Disrupción (2026-06-02)
 Esta disrupción la realicé por iniciativa propia. Aunque el entorno se recalibró por esta acción (creando una dinámica entre aliados y gente en contra), adopté el papel necesario para los aliados y seguí el guion momentáneamente, consciente de que esto es parte de un panorama mucho más grande. Es un ejercicio de control y visión estratégica, no de reactividad.
 
 2026-06-06: Declare sobre tomar alguna chica de ahi como esposa, yo no las voy a sacar de ahi, no voy a arreglar lo que otro rompio, necesito conocer y socializar (desde el respeto), por que a veces dices eres muy buena persona pero no nos vamos a aguantar.
 
+---
+
 ## Resultados
-### En suspension
+---
+
+### En Suspension
 2026-05-18: En suspension hasta que el entorno sea mas favorable, o si veo que ella resiste el hoovering, si me precipito la puedo perjudir en lugar de ayudarla.
 
 2026-05-26: Sigue en suspencion, fui amable tras que la red intento enviarmela como dando su permiso, lo que estaban haciendo era buscar mantener control.
 
 2026-05-27: La chica mostro duelo por mi (error, fue por que empezo su sanacion como estaba en los textos anteriores), creo que empieza sanacion
 
-### Pivote de la red
+---
+
+### Pivote De La Red
 2026-06-23: Me parece que fue forzada, segun mis observaciones de hoy, pero no se si fue manipulacion forzada o fisica, lo que si queda claro es que no se ve atraccion por el hombre.
 
 ---
 
-## Questions for Further Exploration:
-- 
+## Datos Logicos
+Estas observaciones son datos logicos, todo debe de probarse en campo
+
+---
+
+## Questions For Further Exploration:
+- Donde mas se ha visto el mismo patron?

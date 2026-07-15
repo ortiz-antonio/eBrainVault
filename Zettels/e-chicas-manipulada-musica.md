@@ -5,9 +5,11 @@ tags:
 
 ---
 
-# Chica manipulada musica
+# Chica Manipulada Musica
 Le dije:
 Las canciones nos recuerdan situaciones, las situaciones nos recuerdan canciones, pero algo interesante pasa cuando le pones a una situacion una cancion con lo que ahora sabes.
+
+---
 
 ## Analisis
 Le cultive la metacognicion, que observara su propio pensamiento.
@@ -20,5 +22,5 @@ Le cultive la metacognicion, que observara su propio pensamiento.
 
 ---
 
-## Questions for Further Exploration:
+## Questions For Further Exploration:
 - 
